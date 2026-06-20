@@ -1,0 +1,9 @@
+ul .active {
+  text-decoration: underline;
+  color: blanchedalmond;
+  background-image: linear-gradient(to left, #9f62f2, #632ee3);
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  color: transparent;
+}
