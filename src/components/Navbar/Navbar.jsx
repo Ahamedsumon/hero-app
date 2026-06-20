@@ -1,4 +1,4 @@
-import { NavLink } from "react-router";
+import { Link, NavLink } from "react-router";
 import headerImage from "../../assets/logo.png";
 import { FaGithub } from "react-icons/fa";
 import "./Navbar.css";
@@ -46,12 +46,14 @@ const Navbar = () => {
         </ul>
       </div>
       <div className="navbar-end">
-        <a className="btn bg-linear-to-l from-[#9F62F2] to-[#632EE3] text-white text-xl">
-          <span>
-            <FaGithub />
-          </span>
-          Contribute
-        </a>
+        <Link to="https://github.com/Ahamedsumon">
+          <a className="btn bg-linear-to-l from-[#9F62F2] to-[#632EE3] text-white text-xl">
+            <span>
+              <FaGithub />
+            </span>
+            Contribute
+          </a>
+        </Link>
       </div>
     </div>
   );

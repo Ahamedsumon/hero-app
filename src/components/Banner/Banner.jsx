@@ -1,6 +1,7 @@
 import bannerImage from "../../assets/hero.png";
 import playstoreLogo from "../../assets/icons8-google-play-48.png";
 import appstore from "../../assets/icons8-app-store-ios-40.png";
+import { Link } from "react-router";
 const Banner = () => {
   return (
     <div className="text-center h-screen mx-auto">
@@ -18,18 +19,22 @@ const Banner = () => {
         simpler, smarter, and more exciting. Our goal is to turn your ideas into
         digital experiences that truly make an impact.
       </p>
-      <button className="btn bg-white mr-3">
-        <span className="max-w-10">
-          <img src={playstoreLogo} alt="" />
-        </span>{" "}
-        Google Play
-      </button>
-      <button className="btn bg-white">
-        <span className="max-w-10">
-          <img src={appstore} alt="" />
-        </span>{" "}
-        App Store
-      </button>
+      <Link to="https://play.google.com/store/games?hl=en">
+        <button className="btn bg-white mr-3">
+          <span className="max-w-10">
+            <img src={playstoreLogo} alt="" />
+          </span>{" "}
+          Google Play
+        </button>
+      </Link>
+      <Link to="https://www.apple.com/sa/app-store/">
+        <button className="btn bg-white">
+          <span className="max-w-10">
+            <img src={appstore} alt="" />
+          </span>{" "}
+          App Store
+        </button>
+      </Link>
 
       <div className="relative">
         <img
