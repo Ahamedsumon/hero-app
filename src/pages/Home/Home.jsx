@@ -2,8 +2,7 @@ import Banner from "../../components/Banner/Banner";
 
 const Home = () => {
   return (
-    <div>
-      <h2>Home Page</h2>
+    <div className="h-screen">
       <Banner></Banner>
     </div>
   );

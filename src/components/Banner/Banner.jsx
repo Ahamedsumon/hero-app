@@ -4,7 +4,7 @@ import appstore from "../../assets/icons8-app-store-ios-40.png";
 import { Link } from "react-router";
 const Banner = () => {
   return (
-    <div className="text-center h-screen mx-auto">
+    <div className="text-center h-screen mx-auto flex flex-col">
       <div className="text-6xl font-bold">
         <h3>We Build</h3>
         <h3>
@@ -19,7 +19,8 @@ const Banner = () => {
         simpler, smarter, and more exciting. Our goal is to turn your ideas into
         digital experiences that truly make an impact.
       </p>
-      <Link to="https://play.google.com/store/games?hl=en">
+      <div>
+        <Link to="https://play.google.com/store/games?hl=en">
         <button className="btn bg-white mr-3">
           <span className="max-w-10">
             <img src={playstoreLogo} alt="" />
@@ -35,10 +36,11 @@ const Banner = () => {
           App Store
         </button>
       </Link>
+      </div>
 
-      <div className="relative">
+      <div className="relative max-w-xl left-1/2 -translate-x-1/2 -translate-y-1/2">
         <img
-          className="absolute top-70 left-1/2 -translate-x-1/2 -translate-y-1/2"
+          className="w-full h-auto absolute top-50 left-1/2 -translate-x-1/2 -translate-y-1/2"
           src={bannerImage}
           alt=""
         />
