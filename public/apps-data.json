@@ -1,0 +1,1190 @@
+[
+  {
+    "image": "https://example.com/apps/taskmaster-pro.png",
+    "title": "TaskMaster Pro",
+    "companyName": "NovaSoft Labs",
+    "id": 1,
+    "description": "TaskMaster Pro is a modern application built to help users simplify everyday activities through powerful tools, intelligent automation, and an intuitive interface. The app combines performance, reliability, and ease of use to deliver a smooth experience across devices. Users can organize information, track progress, access personalized recommendations, collaborate when needed, and gain valuable insights through detailed analytics. Regular updates, responsive design, and practical features make it a dependable solution for both casual and advanced users seeking greater efficiency and convenience.",
+    "size": 66,
+    "reviews": 42101,
+    "ratingAvg": 4.3,
+    "downloads": 499956,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 199
+      },
+      {
+        "name": "2 star",
+        "count": 1118
+      },
+      {
+        "name": "3 star",
+        "count": 659
+      },
+      {
+        "name": "4 star",
+        "count": 9031
+      },
+      {
+        "name": "5 star",
+        "count": 9228
+      }
+    ]
+  },
+  {
+    "image": "https://example.com/apps/fittrack-plus.png",
+    "title": "FitTrack Plus",
+    "companyName": "HealthSync Technologies",
+    "id": 2,
+    "description": "FitTrack Plus is a modern application built to help users simplify everyday activities through powerful tools, intelligent automation, and an intuitive interface. The app combines performance, reliability, and ease of use to deliver a smooth experience across devices. Users can organize information, track progress, access personalized recommendations, collaborate when needed, and gain valuable insights through detailed analytics. Regular updates, responsive design, and practical features make it a dependable solution for both casual and advanced users seeking greater efficiency and convenience.",
+    "size": 93,
+    "reviews": 23599,
+    "ratingAvg": 4.6,
+    "downloads": 8088464,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 749
+      },
+      {
+        "name": "2 star",
+        "count": 229
+      },
+      {
+        "name": "3 star",
+        "count": 2818
+      },
+      {
+        "name": "4 star",
+        "count": 6061
+      },
+      {
+        "name": "5 star",
+        "count": 5235
+      }
+    ]
+  },
+  {
+    "image": "https://example.com/apps/travelmate-go.png",
+    "title": "TravelMate Go",
+    "companyName": "SkyRoute Digital",
+    "id": 3,
+    "description": "TravelMate Go is a modern application built to help users simplify everyday activities through powerful tools, intelligent automation, and an intuitive interface. The app combines performance, reliability, and ease of use to deliver a smooth experience across devices. Users can organize information, track progress, access personalized recommendations, collaborate when needed, and gain valuable insights through detailed analytics. Regular updates, responsive design, and practical features make it a dependable solution for both casual and advanced users seeking greater efficiency and convenience.",
+    "size": 69,
+    "reviews": 28672,
+    "ratingAvg": 4.6,
+    "downloads": 9742191,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 451
+      },
+      {
+        "name": "2 star",
+        "count": 1107
+      },
+      {
+        "name": "3 star",
+        "count": 2293
+      },
+      {
+        "name": "4 star",
+        "count": 8164
+      },
+      {
+        "name": "5 star",
+        "count": 23067
+      }
+    ]
+  },
+  {
+    "image": "https://example.com/apps/studyspark.png",
+    "title": "StudySpark",
+    "companyName": "EduCore Systems",
+    "id": 4,
+    "description": "StudySpark is a modern application built to help users simplify everyday activities through powerful tools, intelligent automation, and an intuitive interface. The app combines performance, reliability, and ease of use to deliver a smooth experience across devices. Users can organize information, track progress, access personalized recommendations, collaborate when needed, and gain valuable insights through detailed analytics. Regular updates, responsive design, and practical features make it a dependable solution for both casual and advanced users seeking greater efficiency and convenience.",
+    "size": 113,
+    "reviews": 36488,
+    "ratingAvg": 4.4,
+    "downloads": 4680571,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 334
+      },
+      {
+        "name": "2 star",
+        "count": 986
+      },
+      {
+        "name": "3 star",
+        "count": 829
+      },
+      {
+        "name": "4 star",
+        "count": 9214
+      },
+      {
+        "name": "5 star",
+        "count": 22259
+      }
+    ]
+  },
+  {
+    "image": "https://example.com/apps/musicwave.png",
+    "title": "MusicWave",
+    "companyName": "SoundSphere Media",
+    "id": 5,
+    "description": "MusicWave is a modern application built to help users simplify everyday activities through powerful tools, intelligent automation, and an intuitive interface. The app combines performance, reliability, and ease of use to deliver a smooth experience across devices. Users can organize information, track progress, access personalized recommendations, collaborate when needed, and gain valuable insights through detailed analytics. Regular updates, responsive design, and practical features make it a dependable solution for both casual and advanced users seeking greater efficiency and convenience.",
+    "size": 83,
+    "reviews": 42092,
+    "ratingAvg": 4.7,
+    "downloads": 3999324,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 790
+      },
+      {
+        "name": "2 star",
+        "count": 342
+      },
+      {
+        "name": "3 star",
+        "count": 2632
+      },
+      {
+        "name": "4 star",
+        "count": 4011
+      },
+      {
+        "name": "5 star",
+        "count": 29275
+      }
+    ]
+  },
+  {
+    "image": "https://example.com/apps/budgetwise.png",
+    "title": "BudgetWise",
+    "companyName": "FinTech Horizon",
+    "id": 6,
+    "description": "BudgetWise is a modern application built to help users simplify everyday activities through powerful tools, intelligent automation, and an intuitive interface. The app combines performance, reliability, and ease of use to deliver a smooth experience across devices. Users can organize information, track progress, access personalized recommendations, collaborate when needed, and gain valuable insights through detailed analytics. Regular updates, responsive design, and practical features make it a dependable solution for both casual and advanced users seeking greater efficiency and convenience.",
+    "size": 142,
+    "reviews": 39370,
+    "ratingAvg": 4.2,
+    "downloads": 3082607,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 289
+      },
+      {
+        "name": "2 star",
+        "count": 655
+      },
+      {
+        "name": "3 star",
+        "count": 326
+      },
+      {
+        "name": "4 star",
+        "count": 7681
+      },
+      {
+        "name": "5 star",
+        "count": 21611
+      }
+    ]
+  },
+  {
+    "image": "https://example.com/apps/photomagic.png",
+    "title": "PhotoMagic",
+    "companyName": "PixelCraft Studios",
+    "id": 7,
+    "description": "PhotoMagic is a modern application built to help users simplify everyday activities through powerful tools, intelligent automation, and an intuitive interface. The app combines performance, reliability, and ease of use to deliver a smooth experience across devices. Users can organize information, track progress, access personalized recommendations, collaborate when needed, and gain valuable insights through detailed analytics. Regular updates, responsive design, and practical features make it a dependable solution for both casual and advanced users seeking greater efficiency and convenience.",
+    "size": 54,
+    "reviews": 46857,
+    "ratingAvg": 4.3,
+    "downloads": 6695371,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 143
+      },
+      {
+        "name": "2 star",
+        "count": 290
+      },
+      {
+        "name": "3 star",
+        "count": 2989
+      },
+      {
+        "name": "4 star",
+        "count": 10278
+      },
+      {
+        "name": "5 star",
+        "count": 13341
+      }
+    ]
+  },
+  {
+    "image": "https://example.com/apps/recipehub.png",
+    "title": "RecipeHub",
+    "companyName": "KitchenByte Inc",
+    "id": 8,
+    "description": "RecipeHub is a modern application built to help users simplify everyday activities through powerful tools, intelligent automation, and an intuitive interface. The app combines performance, reliability, and ease of use to deliver a smooth experience across devices. Users can organize information, track progress, access personalized recommendations, collaborate when needed, and gain valuable insights through detailed analytics. Regular updates, responsive design, and practical features make it a dependable solution for both casual and advanced users seeking greater efficiency and convenience.",
+    "size": 67,
+    "reviews": 16864,
+    "ratingAvg": 4.6,
+    "downloads": 8775482,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 678
+      },
+      {
+        "name": "2 star",
+        "count": 151
+      },
+      {
+        "name": "3 star",
+        "count": 2254
+      },
+      {
+        "name": "4 star",
+        "count": 4366
+      },
+      {
+        "name": "5 star",
+        "count": 14520
+      }
+    ]
+  },
+  {
+    "image": "https://example.com/apps/langlearn.png",
+    "title": "LangLearn",
+    "companyName": "GlobalEdu Apps",
+    "id": 9,
+    "description": "LangLearn is a modern application built to help users simplify everyday activities through powerful tools, intelligent automation, and an intuitive interface. The app combines performance, reliability, and ease of use to deliver a smooth experience across devices. Users can organize information, track progress, access personalized recommendations, collaborate when needed, and gain valuable insights through detailed analytics. Regular updates, responsive design, and practical features make it a dependable solution for both casual and advanced users seeking greater efficiency and convenience.",
+    "size": 31,
+    "reviews": 40251,
+    "ratingAvg": 4.7,
+    "downloads": 4636113,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 751
+      },
+      {
+        "name": "2 star",
+        "count": 277
+      },
+      {
+        "name": "3 star",
+        "count": 2847
+      },
+      {
+        "name": "4 star",
+        "count": 9284
+      },
+      {
+        "name": "5 star",
+        "count": 6884
+      }
+    ]
+  },
+  {
+    "image": "https://example.com/apps/gamerszone.png",
+    "title": "GamersZone",
+    "companyName": "PlayVerse Entertainment",
+    "id": 10,
+    "description": "GamersZone is a modern application built to help users simplify everyday activities through powerful tools, intelligent automation, and an intuitive interface. The app combines performance, reliability, and ease of use to deliver a smooth experience across devices. Users can organize information, track progress, access personalized recommendations, collaborate when needed, and gain valuable insights through detailed analytics. Regular updates, responsive design, and practical features make it a dependable solution for both casual and advanced users seeking greater efficiency and convenience.",
+    "size": 99,
+    "reviews": 32236,
+    "ratingAvg": 4.4,
+    "downloads": 9677106,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 380
+      },
+      {
+        "name": "2 star",
+        "count": 598
+      },
+      {
+        "name": "3 star",
+        "count": 2264
+      },
+      {
+        "name": "4 star",
+        "count": 11674
+      },
+      {
+        "name": "5 star",
+        "count": 11938
+      }
+    ]
+  },
+  {
+    "image": "https://example.com/apps/weatherpulse.png",
+    "title": "WeatherPulse",
+    "companyName": "ClimateTech Solutions",
+    "id": 11,
+    "description": "WeatherPulse is a modern application built to help users simplify everyday activities through powerful tools, intelligent automation, and an intuitive interface. The app combines performance, reliability, and ease of use to deliver a smooth experience across devices. Users can organize information, track progress, access personalized recommendations, collaborate when needed, and gain valuable insights through detailed analytics. Regular updates, responsive design, and practical features make it a dependable solution for both casual and advanced users seeking greater efficiency and convenience.",
+    "size": 87,
+    "reviews": 27150,
+    "ratingAvg": 4.7,
+    "downloads": 5801987,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 641
+      },
+      {
+        "name": "2 star",
+        "count": 1198
+      },
+      {
+        "name": "3 star",
+        "count": 2438
+      },
+      {
+        "name": "4 star",
+        "count": 9445
+      },
+      {
+        "name": "5 star",
+        "count": 21444
+      }
+    ]
+  },
+  {
+    "image": "https://example.com/apps/booknest.png",
+    "title": "BookNest",
+    "companyName": "Readerly Media",
+    "id": 12,
+    "description": "BookNest is a modern application built to help users simplify everyday activities through powerful tools, intelligent automation, and an intuitive interface. The app combines performance, reliability, and ease of use to deliver a smooth experience across devices. Users can organize information, track progress, access personalized recommendations, collaborate when needed, and gain valuable insights through detailed analytics. Regular updates, responsive design, and practical features make it a dependable solution for both casual and advanced users seeking greater efficiency and convenience.",
+    "size": 116,
+    "reviews": 15794,
+    "ratingAvg": 4.2,
+    "downloads": 4319258,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 690
+      },
+      {
+        "name": "2 star",
+        "count": 793
+      },
+      {
+        "name": "3 star",
+        "count": 2806
+      },
+      {
+        "name": "4 star",
+        "count": 4961
+      },
+      {
+        "name": "5 star",
+        "count": 24509
+      }
+    ]
+  },
+  {
+    "image": "https://example.com/apps/focusflow.png",
+    "title": "FocusFlow",
+    "companyName": "FlowWorks",
+    "id": 13,
+    "description": "FocusFlow is a modern application built to help users simplify everyday activities through powerful tools, intelligent automation, and an intuitive interface. The app combines performance, reliability, and ease of use to deliver a smooth experience across devices. Users can organize information, track progress, access personalized recommendations, collaborate when needed, and gain valuable insights through detailed analytics. Regular updates, responsive design, and practical features make it a dependable solution for both casual and advanced users seeking greater efficiency and convenience.",
+    "size": 76,
+    "reviews": 25105,
+    "ratingAvg": 4.3,
+    "downloads": 1955224,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 643
+      },
+      {
+        "name": "2 star",
+        "count": 385
+      },
+      {
+        "name": "3 star",
+        "count": 555
+      },
+      {
+        "name": "4 star",
+        "count": 7940
+      },
+      {
+        "name": "5 star",
+        "count": 5006
+      }
+    ]
+  },
+  {
+    "image": "https://example.com/apps/safevault.png",
+    "title": "SafeVault",
+    "companyName": "SecureNet",
+    "id": 14,
+    "description": "SafeVault is a modern application built to help users simplify everyday activities through powerful tools, intelligent automation, and an intuitive interface. The app combines performance, reliability, and ease of use to deliver a smooth experience across devices. Users can organize information, track progress, access personalized recommendations, collaborate when needed, and gain valuable insights through detailed analytics. Regular updates, responsive design, and practical features make it a dependable solution for both casual and advanced users seeking greater efficiency and convenience.",
+    "size": 125,
+    "reviews": 21510,
+    "ratingAvg": 4.6,
+    "downloads": 4641780,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 212
+      },
+      {
+        "name": "2 star",
+        "count": 512
+      },
+      {
+        "name": "3 star",
+        "count": 1669
+      },
+      {
+        "name": "4 star",
+        "count": 7369
+      },
+      {
+        "name": "5 star",
+        "count": 5118
+      }
+    ]
+  },
+  {
+    "image": "https://example.com/apps/moviemania.png",
+    "title": "MovieMania",
+    "companyName": "CinemaVerse",
+    "id": 15,
+    "description": "MovieMania is a modern application built to help users simplify everyday activities through powerful tools, intelligent automation, and an intuitive interface. The app combines performance, reliability, and ease of use to deliver a smooth experience across devices. Users can organize information, track progress, access personalized recommendations, collaborate when needed, and gain valuable insights through detailed analytics. Regular updates, responsive design, and practical features make it a dependable solution for both casual and advanced users seeking greater efficiency and convenience.",
+    "size": 44,
+    "reviews": 8318,
+    "ratingAvg": 4.3,
+    "downloads": 721282,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 290
+      },
+      {
+        "name": "2 star",
+        "count": 388
+      },
+      {
+        "name": "3 star",
+        "count": 2779
+      },
+      {
+        "name": "4 star",
+        "count": 3575
+      },
+      {
+        "name": "5 star",
+        "count": 27498
+      }
+    ]
+  },
+  {
+    "image": "https://example.com/apps/shopsmart.png",
+    "title": "ShopSmart",
+    "companyName": "RetailEdge",
+    "id": 16,
+    "description": "ShopSmart is a modern application built to help users simplify everyday activities through powerful tools, intelligent automation, and an intuitive interface. The app combines performance, reliability, and ease of use to deliver a smooth experience across devices. Users can organize information, track progress, access personalized recommendations, collaborate when needed, and gain valuable insights through detailed analytics. Regular updates, responsive design, and practical features make it a dependable solution for both casual and advanced users seeking greater efficiency and convenience.",
+    "size": 128,
+    "reviews": 41835,
+    "ratingAvg": 4.9,
+    "downloads": 9737155,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 475
+      },
+      {
+        "name": "2 star",
+        "count": 143
+      },
+      {
+        "name": "3 star",
+        "count": 649
+      },
+      {
+        "name": "4 star",
+        "count": 8763
+      },
+      {
+        "name": "5 star",
+        "count": 15837
+      }
+    ]
+  },
+  {
+    "image": "https://example.com/apps/petcare-companion.png",
+    "title": "PetCare Companion",
+    "companyName": "PawTech",
+    "id": 17,
+    "description": "PetCare Companion is a modern application built to help users simplify everyday activities through powerful tools, intelligent automation, and an intuitive interface. The app combines performance, reliability, and ease of use to deliver a smooth experience across devices. Users can organize information, track progress, access personalized recommendations, collaborate when needed, and gain valuable insights through detailed analytics. Regular updates, responsive design, and practical features make it a dependable solution for both casual and advanced users seeking greater efficiency and convenience.",
+    "size": 45,
+    "reviews": 44299,
+    "ratingAvg": 4.7,
+    "downloads": 8352163,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 380
+      },
+      {
+        "name": "2 star",
+        "count": 1036
+      },
+      {
+        "name": "3 star",
+        "count": 2925
+      },
+      {
+        "name": "4 star",
+        "count": 8735
+      },
+      {
+        "name": "5 star",
+        "count": 24829
+      }
+    ]
+  },
+  {
+    "image": "https://example.com/apps/mindbloom.png",
+    "title": "MindBloom",
+    "companyName": "Mindful Labs",
+    "id": 18,
+    "description": "MindBloom is a modern application built to help users simplify everyday activities through powerful tools, intelligent automation, and an intuitive interface. The app combines performance, reliability, and ease of use to deliver a smooth experience across devices. Users can organize information, track progress, access personalized recommendations, collaborate when needed, and gain valuable insights through detailed analytics. Regular updates, responsive design, and practical features make it a dependable solution for both casual and advanced users seeking greater efficiency and convenience.",
+    "size": 36,
+    "reviews": 5499,
+    "ratingAvg": 4.6,
+    "downloads": 5031707,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 176
+      },
+      {
+        "name": "2 star",
+        "count": 955
+      },
+      {
+        "name": "3 star",
+        "count": 2495
+      },
+      {
+        "name": "4 star",
+        "count": 5544
+      },
+      {
+        "name": "5 star",
+        "count": 13147
+      }
+    ]
+  },
+  {
+    "image": "https://example.com/apps/codecraft.png",
+    "title": "CodeCraft",
+    "companyName": "DevForge",
+    "id": 19,
+    "description": "CodeCraft is a modern application built to help users simplify everyday activities through powerful tools, intelligent automation, and an intuitive interface. The app combines performance, reliability, and ease of use to deliver a smooth experience across devices. Users can organize information, track progress, access personalized recommendations, collaborate when needed, and gain valuable insights through detailed analytics. Regular updates, responsive design, and practical features make it a dependable solution for both casual and advanced users seeking greater efficiency and convenience.",
+    "size": 125,
+    "reviews": 31394,
+    "ratingAvg": 4.8,
+    "downloads": 7373900,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 442
+      },
+      {
+        "name": "2 star",
+        "count": 915
+      },
+      {
+        "name": "3 star",
+        "count": 1785
+      },
+      {
+        "name": "4 star",
+        "count": 8963
+      },
+      {
+        "name": "5 star",
+        "count": 21470
+      }
+    ]
+  },
+  {
+    "image": "https://example.com/apps/eventsphere.png",
+    "title": "EventSphere",
+    "companyName": "Eventify",
+    "id": 20,
+    "description": "EventSphere is a modern application built to help users simplify everyday activities through powerful tools, intelligent automation, and an intuitive interface. The app combines performance, reliability, and ease of use to deliver a smooth experience across devices. Users can organize information, track progress, access personalized recommendations, collaborate when needed, and gain valuable insights through detailed analytics. Regular updates, responsive design, and practical features make it a dependable solution for both casual and advanced users seeking greater efficiency and convenience.",
+    "size": 110,
+    "reviews": 26776,
+    "ratingAvg": 4.6,
+    "downloads": 5714155,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 109
+      },
+      {
+        "name": "2 star",
+        "count": 359
+      },
+      {
+        "name": "3 star",
+        "count": 372
+      },
+      {
+        "name": "4 star",
+        "count": 7640
+      },
+      {
+        "name": "5 star",
+        "count": 14627
+      }
+    ]
+  },
+  {
+    "image": "https://example.com/apps/newsflash.png",
+    "title": "NewsFlash",
+    "companyName": "Pulse Media",
+    "id": 21,
+    "description": "NewsFlash is a modern application built to help users simplify everyday activities through powerful tools, intelligent automation, and an intuitive interface. The app combines performance, reliability, and ease of use to deliver a smooth experience across devices. Users can organize information, track progress, access personalized recommendations, collaborate when needed, and gain valuable insights through detailed analytics. Regular updates, responsive design, and practical features make it a dependable solution for both casual and advanced users seeking greater efficiency and convenience.",
+    "size": 95,
+    "reviews": 46068,
+    "ratingAvg": 4.8,
+    "downloads": 4331144,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 629
+      },
+      {
+        "name": "2 star",
+        "count": 778
+      },
+      {
+        "name": "3 star",
+        "count": 879
+      },
+      {
+        "name": "4 star",
+        "count": 3598
+      },
+      {
+        "name": "5 star",
+        "count": 17717
+      }
+    ]
+  },
+  {
+    "image": "https://example.com/apps/designstudio.png",
+    "title": "DesignStudio",
+    "companyName": "Creative Stack",
+    "id": 22,
+    "description": "DesignStudio is a modern application built to help users simplify everyday activities through powerful tools, intelligent automation, and an intuitive interface. The app combines performance, reliability, and ease of use to deliver a smooth experience across devices. Users can organize information, track progress, access personalized recommendations, collaborate when needed, and gain valuable insights through detailed analytics. Regular updates, responsive design, and practical features make it a dependable solution for both casual and advanced users seeking greater efficiency and convenience.",
+    "size": 136,
+    "reviews": 31429,
+    "ratingAvg": 4.2,
+    "downloads": 635962,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 326
+      },
+      {
+        "name": "2 star",
+        "count": 764
+      },
+      {
+        "name": "3 star",
+        "count": 1513
+      },
+      {
+        "name": "4 star",
+        "count": 11375
+      },
+      {
+        "name": "5 star",
+        "count": 29913
+      }
+    ]
+  },
+  {
+    "image": "https://example.com/apps/quicknotes.png",
+    "title": "QuickNotes",
+    "companyName": "NoteWorks",
+    "id": 23,
+    "description": "QuickNotes is a modern application built to help users simplify everyday activities through powerful tools, intelligent automation, and an intuitive interface. The app combines performance, reliability, and ease of use to deliver a smooth experience across devices. Users can organize information, track progress, access personalized recommendations, collaborate when needed, and gain valuable insights through detailed analytics. Regular updates, responsive design, and practical features make it a dependable solution for both casual and advanced users seeking greater efficiency and convenience.",
+    "size": 123,
+    "reviews": 34425,
+    "ratingAvg": 4.7,
+    "downloads": 6344649,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 147
+      },
+      {
+        "name": "2 star",
+        "count": 165
+      },
+      {
+        "name": "3 star",
+        "count": 890
+      },
+      {
+        "name": "4 star",
+        "count": 3202
+      },
+      {
+        "name": "5 star",
+        "count": 26142
+      }
+    ]
+  },
+  {
+    "image": "https://example.com/apps/careerpilot.png",
+    "title": "CareerPilot",
+    "companyName": "FuturePath",
+    "id": 24,
+    "description": "CareerPilot is a modern application built to help users simplify everyday activities through powerful tools, intelligent automation, and an intuitive interface. The app combines performance, reliability, and ease of use to deliver a smooth experience across devices. Users can organize information, track progress, access personalized recommendations, collaborate when needed, and gain valuable insights through detailed analytics. Regular updates, responsive design, and practical features make it a dependable solution for both casual and advanced users seeking greater efficiency and convenience.",
+    "size": 143,
+    "reviews": 30237,
+    "ratingAvg": 4.5,
+    "downloads": 7186936,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 439
+      },
+      {
+        "name": "2 star",
+        "count": 543
+      },
+      {
+        "name": "3 star",
+        "count": 2752
+      },
+      {
+        "name": "4 star",
+        "count": 6997
+      },
+      {
+        "name": "5 star",
+        "count": 17016
+      }
+    ]
+  },
+  {
+    "image": "https://example.com/apps/sleepbetter.png",
+    "title": "SleepBetter",
+    "companyName": "RestWell",
+    "id": 25,
+    "description": "SleepBetter is a modern application built to help users simplify everyday activities through powerful tools, intelligent automation, and an intuitive interface. The app combines performance, reliability, and ease of use to deliver a smooth experience across devices. Users can organize information, track progress, access personalized recommendations, collaborate when needed, and gain valuable insights through detailed analytics. Regular updates, responsive design, and practical features make it a dependable solution for both casual and advanced users seeking greater efficiency and convenience.",
+    "size": 112,
+    "reviews": 45409,
+    "ratingAvg": 4.3,
+    "downloads": 188492,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 398
+      },
+      {
+        "name": "2 star",
+        "count": 482
+      },
+      {
+        "name": "3 star",
+        "count": 2976
+      },
+      {
+        "name": "4 star",
+        "count": 3585
+      },
+      {
+        "name": "5 star",
+        "count": 19452
+      }
+    ]
+  },
+  {
+    "image": "https://example.com/apps/foodiefinder.png",
+    "title": "FoodieFinder",
+    "companyName": "TasteTrail",
+    "id": 26,
+    "description": "FoodieFinder is a modern application built to help users simplify everyday activities through powerful tools, intelligent automation, and an intuitive interface. The app combines performance, reliability, and ease of use to deliver a smooth experience across devices. Users can organize information, track progress, access personalized recommendations, collaborate when needed, and gain valuable insights through detailed analytics. Regular updates, responsive design, and practical features make it a dependable solution for both casual and advanced users seeking greater efficiency and convenience.",
+    "size": 131,
+    "reviews": 11241,
+    "ratingAvg": 4.7,
+    "downloads": 4357053,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 83
+      },
+      {
+        "name": "2 star",
+        "count": 991
+      },
+      {
+        "name": "3 star",
+        "count": 2246
+      },
+      {
+        "name": "4 star",
+        "count": 8497
+      },
+      {
+        "name": "5 star",
+        "count": 13238
+      }
+    ]
+  },
+  {
+    "image": "https://example.com/apps/cryptotrack.png",
+    "title": "CryptoTrack",
+    "companyName": "BlockMetrics",
+    "id": 27,
+    "description": "CryptoTrack is a modern application built to help users simplify everyday activities through powerful tools, intelligent automation, and an intuitive interface. The app combines performance, reliability, and ease of use to deliver a smooth experience across devices. Users can organize information, track progress, access personalized recommendations, collaborate when needed, and gain valuable insights through detailed analytics. Regular updates, responsive design, and practical features make it a dependable solution for both casual and advanced users seeking greater efficiency and convenience.",
+    "size": 37,
+    "reviews": 18558,
+    "ratingAvg": 4.1,
+    "downloads": 563739,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 190
+      },
+      {
+        "name": "2 star",
+        "count": 918
+      },
+      {
+        "name": "3 star",
+        "count": 1208
+      },
+      {
+        "name": "4 star",
+        "count": 6680
+      },
+      {
+        "name": "5 star",
+        "count": 20111
+      }
+    ]
+  },
+  {
+    "image": "https://example.com/apps/homeplanner.png",
+    "title": "HomePlanner",
+    "companyName": "SmartLiving",
+    "id": 28,
+    "description": "HomePlanner is a modern application built to help users simplify everyday activities through powerful tools, intelligent automation, and an intuitive interface. The app combines performance, reliability, and ease of use to deliver a smooth experience across devices. Users can organize information, track progress, access personalized recommendations, collaborate when needed, and gain valuable insights through detailed analytics. Regular updates, responsive design, and practical features make it a dependable solution for both casual and advanced users seeking greater efficiency and convenience.",
+    "size": 125,
+    "reviews": 25590,
+    "ratingAvg": 4.8,
+    "downloads": 6303150,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 796
+      },
+      {
+        "name": "2 star",
+        "count": 492
+      },
+      {
+        "name": "3 star",
+        "count": 1523
+      },
+      {
+        "name": "4 star",
+        "count": 11537
+      },
+      {
+        "name": "5 star",
+        "count": 22949
+      }
+    ]
+  },
+  {
+    "image": "https://example.com/apps/yogadaily.png",
+    "title": "YogaDaily",
+    "companyName": "ZenMotion",
+    "id": 29,
+    "description": "YogaDaily is a modern application built to help users simplify everyday activities through powerful tools, intelligent automation, and an intuitive interface. The app combines performance, reliability, and ease of use to deliver a smooth experience across devices. Users can organize information, track progress, access personalized recommendations, collaborate when needed, and gain valuable insights through detailed analytics. Regular updates, responsive design, and practical features make it a dependable solution for both casual and advanced users seeking greater efficiency and convenience.",
+    "size": 36,
+    "reviews": 42039,
+    "ratingAvg": 4.3,
+    "downloads": 3562169,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 700
+      },
+      {
+        "name": "2 star",
+        "count": 874
+      },
+      {
+        "name": "3 star",
+        "count": 2365
+      },
+      {
+        "name": "4 star",
+        "count": 11926
+      },
+      {
+        "name": "5 star",
+        "count": 9361
+      }
+    ]
+  },
+  {
+    "image": "https://example.com/apps/kidslearn.png",
+    "title": "KidsLearn",
+    "companyName": "BrightKids",
+    "id": 30,
+    "description": "KidsLearn is a modern application built to help users simplify everyday activities through powerful tools, intelligent automation, and an intuitive interface. The app combines performance, reliability, and ease of use to deliver a smooth experience across devices. Users can organize information, track progress, access personalized recommendations, collaborate when needed, and gain valuable insights through detailed analytics. Regular updates, responsive design, and practical features make it a dependable solution for both casual and advanced users seeking greater efficiency and convenience.",
+    "size": 103,
+    "reviews": 30897,
+    "ratingAvg": 4.2,
+    "downloads": 2464664,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 292
+      },
+      {
+        "name": "2 star",
+        "count": 554
+      },
+      {
+        "name": "3 star",
+        "count": 1516
+      },
+      {
+        "name": "4 star",
+        "count": 8897
+      },
+      {
+        "name": "5 star",
+        "count": 27435
+      }
+    ]
+  },
+  {
+    "image": "https://example.com/apps/autocare.png",
+    "title": "AutoCare",
+    "companyName": "DriveTech",
+    "id": 31,
+    "description": "AutoCare is a modern application built to help users simplify everyday activities through powerful tools, intelligent automation, and an intuitive interface. The app combines performance, reliability, and ease of use to deliver a smooth experience across devices. Users can organize information, track progress, access personalized recommendations, collaborate when needed, and gain valuable insights through detailed analytics. Regular updates, responsive design, and practical features make it a dependable solution for both casual and advanced users seeking greater efficiency and convenience.",
+    "size": 149,
+    "reviews": 14626,
+    "ratingAvg": 4.2,
+    "downloads": 8945548,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 134
+      },
+      {
+        "name": "2 star",
+        "count": 1196
+      },
+      {
+        "name": "3 star",
+        "count": 2560
+      },
+      {
+        "name": "4 star",
+        "count": 5908
+      },
+      {
+        "name": "5 star",
+        "count": 10273
+      }
+    ]
+  },
+  {
+    "image": "https://example.com/apps/podcasthub.png",
+    "title": "PodcastHub",
+    "companyName": "AudioWave",
+    "id": 32,
+    "description": "PodcastHub is a modern application built to help users simplify everyday activities through powerful tools, intelligent automation, and an intuitive interface. The app combines performance, reliability, and ease of use to deliver a smooth experience across devices. Users can organize information, track progress, access personalized recommendations, collaborate when needed, and gain valuable insights through detailed analytics. Regular updates, responsive design, and practical features make it a dependable solution for both casual and advanced users seeking greater efficiency and convenience.",
+    "size": 39,
+    "reviews": 44254,
+    "ratingAvg": 4.8,
+    "downloads": 2064598,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 434
+      },
+      {
+        "name": "2 star",
+        "count": 955
+      },
+      {
+        "name": "3 star",
+        "count": 1006
+      },
+      {
+        "name": "4 star",
+        "count": 5924
+      },
+      {
+        "name": "5 star",
+        "count": 14524
+      }
+    ]
+  },
+  {
+    "image": "https://example.com/apps/greenhabit.png",
+    "title": "GreenHabit",
+    "companyName": "EcoFuture",
+    "id": 33,
+    "description": "GreenHabit is a modern application built to help users simplify everyday activities through powerful tools, intelligent automation, and an intuitive interface. The app combines performance, reliability, and ease of use to deliver a smooth experience across devices. Users can organize information, track progress, access personalized recommendations, collaborate when needed, and gain valuable insights through detailed analytics. Regular updates, responsive design, and practical features make it a dependable solution for both casual and advanced users seeking greater efficiency and convenience.",
+    "size": 55,
+    "reviews": 7164,
+    "ratingAvg": 4.4,
+    "downloads": 9501624,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 587
+      },
+      {
+        "name": "2 star",
+        "count": 287
+      },
+      {
+        "name": "3 star",
+        "count": 1786
+      },
+      {
+        "name": "4 star",
+        "count": 10336
+      },
+      {
+        "name": "5 star",
+        "count": 18326
+      }
+    ]
+  },
+  {
+    "image": "https://example.com/apps/sportsarena.png",
+    "title": "SportsArena",
+    "companyName": "Arena Digital",
+    "id": 34,
+    "description": "SportsArena is a modern application built to help users simplify everyday activities through powerful tools, intelligent automation, and an intuitive interface. The app combines performance, reliability, and ease of use to deliver a smooth experience across devices. Users can organize information, track progress, access personalized recommendations, collaborate when needed, and gain valuable insights through detailed analytics. Regular updates, responsive design, and practical features make it a dependable solution for both casual and advanced users seeking greater efficiency and convenience.",
+    "size": 127,
+    "reviews": 9325,
+    "ratingAvg": 4.8,
+    "downloads": 728697,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 128
+      },
+      {
+        "name": "2 star",
+        "count": 428
+      },
+      {
+        "name": "3 star",
+        "count": 624
+      },
+      {
+        "name": "4 star",
+        "count": 6502
+      },
+      {
+        "name": "5 star",
+        "count": 27774
+      }
+    ]
+  },
+  {
+    "image": "https://example.com/apps/artcanvas.png",
+    "title": "ArtCanvas",
+    "companyName": "Artify Labs",
+    "id": 35,
+    "description": "ArtCanvas is a modern application built to help users simplify everyday activities through powerful tools, intelligent automation, and an intuitive interface. The app combines performance, reliability, and ease of use to deliver a smooth experience across devices. Users can organize information, track progress, access personalized recommendations, collaborate when needed, and gain valuable insights through detailed analytics. Regular updates, responsive design, and practical features make it a dependable solution for both casual and advanced users seeking greater efficiency and convenience.",
+    "size": 54,
+    "reviews": 18665,
+    "ratingAvg": 4.8,
+    "downloads": 6034390,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 751
+      },
+      {
+        "name": "2 star",
+        "count": 874
+      },
+      {
+        "name": "3 star",
+        "count": 1595
+      },
+      {
+        "name": "4 star",
+        "count": 7099
+      },
+      {
+        "name": "5 star",
+        "count": 15581
+      }
+    ]
+  },
+  {
+    "image": "https://example.com/apps/clouddrive.png",
+    "title": "CloudDrive",
+    "companyName": "Nimbus Cloud",
+    "id": 36,
+    "description": "CloudDrive is a modern application built to help users simplify everyday activities through powerful tools, intelligent automation, and an intuitive interface. The app combines performance, reliability, and ease of use to deliver a smooth experience across devices. Users can organize information, track progress, access personalized recommendations, collaborate when needed, and gain valuable insights through detailed analytics. Regular updates, responsive design, and practical features make it a dependable solution for both casual and advanced users seeking greater efficiency and convenience.",
+    "size": 106,
+    "reviews": 9120,
+    "ratingAvg": 4.9,
+    "downloads": 7548851,
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 748
+      },
+      {
+        "name": "2 star",
+        "count": 942
+      },
+      {
+        "name": "3 star",
+        "count": 561
+      },
+      {
+        "name": "4 star",
+        "count": 6830
+      },
+      {
+        "name": "5 star",
+        "count": 25988
+      }
+    ]
+  }
+]

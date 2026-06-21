@@ -8,7 +8,7 @@ const Root = () => {
       <header className=" lg:max-w-[90%] mx-auto">
         <Navbar></Navbar>
       </header>
-      <main className="max-w-[96%] lg:max-w-[90%] mx-auto">
+      <main className="">
         <Outlet></Outlet>
       </main>
       <footer className="bg-black">

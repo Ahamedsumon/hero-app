@@ -47,12 +47,12 @@ const Navbar = () => {
       </div>
       <div className="navbar-end">
         <Link to="https://github.com/Ahamedsumon">
-          <a className="btn bg-linear-to-l from-[#9F62F2] to-[#632EE3] text-white text-xl">
+          <button className="btn bg-linear-to-l from-[#9F62F2] to-[#632EE3] text-white text-xl">
             <span>
               <FaGithub />
             </span>
             Contribute
-          </a>
+          </button>
         </Link>
       </div>
     </div>
