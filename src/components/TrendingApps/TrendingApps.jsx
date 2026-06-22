@@ -1,18 +1,14 @@
 const TrendingApps = ({ data }) => {
-  const {title, downloads, ratingAvg} = data
+  const { image, title, downloads, ratingAvg } = data;
   console.log(data);
   return (
     <div className="card bg-base-100 shadow-sm">
       <figure className="px-2 pt-2">
-        <img
-          src="https://img.daisyui.com/images/stock/photo-1606107557195-0e29a4b5b4aa.webp"
-          alt="Shoes"
-          className="rounded-xl"
-        />
+        <img src={image} alt="Shoes" className="rounded-xl" />
       </figure>
-      <div className="card-body">
-        <h2 className="card-title">Title: {title}</h2>
-        <div className=" flex">
+      <div className=" p-2">
+        <h2 className="text-sm">{title}</h2>
+        <div className=" flex justify-between py-2">
           <p>{downloads}</p>
           <p className="text-end">{ratingAvg}</p>
         </div>

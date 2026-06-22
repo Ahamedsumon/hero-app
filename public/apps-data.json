@@ -1,1190 +1,650 @@
 [
   {
-    "image": "https://example.com/apps/taskmaster-pro.png",
-    "title": "TaskMaster Pro",
-    "companyName": "NovaSoft Labs",
     "id": 1,
-    "description": "TaskMaster Pro is a modern application built to help users simplify everyday activities through powerful tools, intelligent automation, and an intuitive interface. The app combines performance, reliability, and ease of use to deliver a smooth experience across devices. Users can organize information, track progress, access personalized recommendations, collaborate when needed, and gain valuable insights through detailed analytics. Regular updates, responsive design, and practical features make it a dependable solution for both casual and advanced users seeking greater efficiency and convenience.",
-    "size": 66,
-    "reviews": 42101,
-    "ratingAvg": 4.3,
-    "downloads": 499956,
+    "image": "https://images.unsplash.com/photo-1531403009284-440f080d1e12?auto=format&fit=crop&w=600&h=400&q=80",
+    "title": "Productivity Hub: Sync & Teams",
+    "companyName": "SyncLabs Inc.",
+    "size": 45.2,
+    "reviews": 12450,
+    "ratingAvg": 4.6,
+    "downloads": 500000,
+    "description": "Productivity Hub Ultimate Workspace Management Tool is designed to revolutionize how modern teams interact, manage workloads, and achieve goals. By integrating cutting-edge task boards, real-time instant messaging, automated milestone reminders, and sophisticated cloud storage solutions into a single intuitive interface, this application eliminates the friction of switching between fragmented software ecosystem utilities.",
     "ratings": [
-      {
-        "name": "1 star",
-        "count": 199
-      },
-      {
-        "name": "2 star",
-        "count": 1118
-      },
-      {
-        "name": "3 star",
-        "count": 659
-      },
-      {
-        "name": "4 star",
-        "count": 9031
-      },
-      {
-        "name": "5 star",
-        "count": 9228
-      }
+      { "name": "1 star", "count": 250 },
+      { "name": "2 star", "count": 350 },
+      { "name": "3 star", "count": 850 },
+      { "name": "4 star", "count": 3000 },
+      { "name": "5 star", "count": 8000 }
     ]
   },
   {
-    "image": "https://example.com/apps/fittrack-plus.png",
-    "title": "FitTrack Plus",
-    "companyName": "HealthSync Technologies",
     "id": 2,
-    "description": "FitTrack Plus is a modern application built to help users simplify everyday activities through powerful tools, intelligent automation, and an intuitive interface. The app combines performance, reliability, and ease of use to deliver a smooth experience across devices. Users can organize information, track progress, access personalized recommendations, collaborate when needed, and gain valuable insights through detailed analytics. Regular updates, responsive design, and practical features make it a dependable solution for both casual and advanced users seeking greater efficiency and convenience.",
-    "size": 93,
-    "reviews": 23599,
-    "ratingAvg": 4.6,
-    "downloads": 8088464,
+    "image": "https://images.unsplash.com/photo-1626785774573-4b799315345d?auto=format&fit=crop&w=600&h=400&q=80",
+    "title": "Pixel Editor: Layers & Vector",
+    "companyName": "Creativex Studio",
+    "size": 120.5,
+    "reviews": 8920,
+    "ratingAvg": 4.3,
+    "downloads": 250000,
+    "description": "Unlock your full creative potential with Pixel Editor Pro Advanced Mobile Graphic Design Studio, the most comprehensive visual manipulation software engineered specifically for mobile operating systems. Featuring an industry-grade rendering engine, this powerful utility allows amateur illustrators and veteran photographers alike to manipulate complex multi-layered compositions.",
     "ratings": [
-      {
-        "name": "1 star",
-        "count": 749
-      },
-      {
-        "name": "2 star",
-        "count": 229
-      },
-      {
-        "name": "3 star",
-        "count": 2818
-      },
-      {
-        "name": "4 star",
-        "count": 6061
-      },
-      {
-        "name": "5 star",
-        "count": 5235
-      }
+      { "name": "1 star", "count": 420 },
+      { "name": "2 star", "count": 500 },
+      { "name": "3 star", "count": 1000 },
+      { "name": "4 star", "count": 2000 },
+      { "name": "5 star", "count": 5000 }
     ]
   },
   {
-    "image": "https://example.com/apps/travelmate-go.png",
-    "title": "TravelMate Go",
-    "companyName": "SkyRoute Digital",
     "id": 3,
-    "description": "TravelMate Go is a modern application built to help users simplify everyday activities through powerful tools, intelligent automation, and an intuitive interface. The app combines performance, reliability, and ease of use to deliver a smooth experience across devices. Users can organize information, track progress, access personalized recommendations, collaborate when needed, and gain valuable insights through detailed analytics. Regular updates, responsive design, and practical features make it a dependable solution for both casual and advanced users seeking greater efficiency and convenience.",
-    "size": 69,
-    "reviews": 28672,
-    "ratingAvg": 4.6,
-    "downloads": 9742191,
+    "image": "https://images.unsplash.com/photo-1517838277536-f5f99be501cd?auto=format&fit=crop&w=600&h=400&q=80",
+    "title": "FitTracker Pro: Health & Diet",
+    "companyName": "BioMetric Health",
+    "size": 68.1,
+    "reviews": 34100,
+    "ratingAvg": 4.8,
+    "downloads": 1500000,
+    "description": "FitTracker Pro Holistic Health Companion is a state-of-the-art physical wellness platform designed to guide users through personalized physiological optimization journeys. By aggregating real-time data from popular wearable smart sensors, the system provides instantaneous feedback regarding active cardiovascular exertion.",
     "ratings": [
-      {
-        "name": "1 star",
-        "count": 451
-      },
-      {
-        "name": "2 star",
-        "count": 1107
-      },
-      {
-        "name": "3 star",
-        "count": 2293
-      },
-      {
-        "name": "4 star",
-        "count": 8164
-      },
-      {
-        "name": "5 star",
-        "count": 23067
-      }
+      { "name": "1 star", "count": 500 },
+      { "name": "2 star", "count": 600 },
+      { "name": "3 star", "count": 1500 },
+      { "name": "4 star", "count": 6500 },
+      { "name": "5 star", "count": 25000 }
     ]
   },
   {
-    "image": "https://example.com/apps/studyspark.png",
-    "title": "StudySpark",
-    "companyName": "EduCore Systems",
     "id": 4,
-    "description": "StudySpark is a modern application built to help users simplify everyday activities through powerful tools, intelligent automation, and an intuitive interface. The app combines performance, reliability, and ease of use to deliver a smooth experience across devices. Users can organize information, track progress, access personalized recommendations, collaborate when needed, and gain valuable insights through detailed analytics. Regular updates, responsive design, and practical features make it a dependable solution for both casual and advanced users seeking greater efficiency and convenience.",
-    "size": 113,
-    "reviews": 36488,
-    "ratingAvg": 4.4,
-    "downloads": 4680571,
-    "ratings": [
-      {
-        "name": "1 star",
-        "count": 334
-      },
-      {
-        "name": "2 star",
-        "count": 986
-      },
-      {
-        "name": "3 star",
-        "count": 829
-      },
-      {
-        "name": "4 star",
-        "count": 9214
-      },
-      {
-        "name": "5 star",
-        "count": 22259
-      }
-    ]
-  },
-  {
-    "image": "https://example.com/apps/musicwave.png",
-    "title": "MusicWave",
-    "companyName": "SoundSphere Media",
-    "id": 5,
-    "description": "MusicWave is a modern application built to help users simplify everyday activities through powerful tools, intelligent automation, and an intuitive interface. The app combines performance, reliability, and ease of use to deliver a smooth experience across devices. Users can organize information, track progress, access personalized recommendations, collaborate when needed, and gain valuable insights through detailed analytics. Regular updates, responsive design, and practical features make it a dependable solution for both casual and advanced users seeking greater efficiency and convenience.",
-    "size": 83,
-    "reviews": 42092,
-    "ratingAvg": 4.7,
-    "downloads": 3999324,
-    "ratings": [
-      {
-        "name": "1 star",
-        "count": 790
-      },
-      {
-        "name": "2 star",
-        "count": 342
-      },
-      {
-        "name": "3 star",
-        "count": 2632
-      },
-      {
-        "name": "4 star",
-        "count": 4011
-      },
-      {
-        "name": "5 star",
-        "count": 29275
-      }
-    ]
-  },
-  {
-    "image": "https://example.com/apps/budgetwise.png",
-    "title": "BudgetWise",
-    "companyName": "FinTech Horizon",
-    "id": 6,
-    "description": "BudgetWise is a modern application built to help users simplify everyday activities through powerful tools, intelligent automation, and an intuitive interface. The app combines performance, reliability, and ease of use to deliver a smooth experience across devices. Users can organize information, track progress, access personalized recommendations, collaborate when needed, and gain valuable insights through detailed analytics. Regular updates, responsive design, and practical features make it a dependable solution for both casual and advanced users seeking greater efficiency and convenience.",
-    "size": 142,
-    "reviews": 39370,
-    "ratingAvg": 4.2,
-    "downloads": 3082607,
-    "ratings": [
-      {
-        "name": "1 star",
-        "count": 289
-      },
-      {
-        "name": "2 star",
-        "count": 655
-      },
-      {
-        "name": "3 star",
-        "count": 326
-      },
-      {
-        "name": "4 star",
-        "count": 7681
-      },
-      {
-        "name": "5 star",
-        "count": 21611
-      }
-    ]
-  },
-  {
-    "image": "https://example.com/apps/photomagic.png",
-    "title": "PhotoMagic",
-    "companyName": "PixelCraft Studios",
-    "id": 7,
-    "description": "PhotoMagic is a modern application built to help users simplify everyday activities through powerful tools, intelligent automation, and an intuitive interface. The app combines performance, reliability, and ease of use to deliver a smooth experience across devices. Users can organize information, track progress, access personalized recommendations, collaborate when needed, and gain valuable insights through detailed analytics. Regular updates, responsive design, and practical features make it a dependable solution for both casual and advanced users seeking greater efficiency and convenience.",
-    "size": 54,
-    "reviews": 46857,
-    "ratingAvg": 4.3,
-    "downloads": 6695371,
-    "ratings": [
-      {
-        "name": "1 star",
-        "count": 143
-      },
-      {
-        "name": "2 star",
-        "count": 290
-      },
-      {
-        "name": "3 star",
-        "count": 2989
-      },
-      {
-        "name": "4 star",
-        "count": 10278
-      },
-      {
-        "name": "5 star",
-        "count": 13341
-      }
-    ]
-  },
-  {
-    "image": "https://example.com/apps/recipehub.png",
-    "title": "RecipeHub",
-    "companyName": "KitchenByte Inc",
-    "id": 8,
-    "description": "RecipeHub is a modern application built to help users simplify everyday activities through powerful tools, intelligent automation, and an intuitive interface. The app combines performance, reliability, and ease of use to deliver a smooth experience across devices. Users can organize information, track progress, access personalized recommendations, collaborate when needed, and gain valuable insights through detailed analytics. Regular updates, responsive design, and practical features make it a dependable solution for both casual and advanced users seeking greater efficiency and convenience.",
-    "size": 67,
-    "reviews": 16864,
-    "ratingAvg": 4.6,
-    "downloads": 8775482,
-    "ratings": [
-      {
-        "name": "1 star",
-        "count": 678
-      },
-      {
-        "name": "2 star",
-        "count": 151
-      },
-      {
-        "name": "3 star",
-        "count": 2254
-      },
-      {
-        "name": "4 star",
-        "count": 4366
-      },
-      {
-        "name": "5 star",
-        "count": 14520
-      }
-    ]
-  },
-  {
-    "image": "https://example.com/apps/langlearn.png",
-    "title": "LangLearn",
-    "companyName": "GlobalEdu Apps",
-    "id": 9,
-    "description": "LangLearn is a modern application built to help users simplify everyday activities through powerful tools, intelligent automation, and an intuitive interface. The app combines performance, reliability, and ease of use to deliver a smooth experience across devices. Users can organize information, track progress, access personalized recommendations, collaborate when needed, and gain valuable insights through detailed analytics. Regular updates, responsive design, and practical features make it a dependable solution for both casual and advanced users seeking greater efficiency and convenience.",
-    "size": 31,
-    "reviews": 40251,
-    "ratingAvg": 4.7,
-    "downloads": 4636113,
-    "ratings": [
-      {
-        "name": "1 star",
-        "count": 751
-      },
-      {
-        "name": "2 star",
-        "count": 277
-      },
-      {
-        "name": "3 star",
-        "count": 2847
-      },
-      {
-        "name": "4 star",
-        "count": 9284
-      },
-      {
-        "name": "5 star",
-        "count": 6884
-      }
-    ]
-  },
-  {
-    "image": "https://example.com/apps/gamerszone.png",
-    "title": "GamersZone",
-    "companyName": "PlayVerse Entertainment",
-    "id": 10,
-    "description": "GamersZone is a modern application built to help users simplify everyday activities through powerful tools, intelligent automation, and an intuitive interface. The app combines performance, reliability, and ease of use to deliver a smooth experience across devices. Users can organize information, track progress, access personalized recommendations, collaborate when needed, and gain valuable insights through detailed analytics. Regular updates, responsive design, and practical features make it a dependable solution for both casual and advanced users seeking greater efficiency and convenience.",
-    "size": 99,
-    "reviews": 32236,
-    "ratingAvg": 4.4,
-    "downloads": 9677106,
-    "ratings": [
-      {
-        "name": "1 star",
-        "count": 380
-      },
-      {
-        "name": "2 star",
-        "count": 598
-      },
-      {
-        "name": "3 star",
-        "count": 2264
-      },
-      {
-        "name": "4 star",
-        "count": 11674
-      },
-      {
-        "name": "5 star",
-        "count": 11938
-      }
-    ]
-  },
-  {
-    "image": "https://example.com/apps/weatherpulse.png",
-    "title": "WeatherPulse",
-    "companyName": "ClimateTech Solutions",
-    "id": 11,
-    "description": "WeatherPulse is a modern application built to help users simplify everyday activities through powerful tools, intelligent automation, and an intuitive interface. The app combines performance, reliability, and ease of use to deliver a smooth experience across devices. Users can organize information, track progress, access personalized recommendations, collaborate when needed, and gain valuable insights through detailed analytics. Regular updates, responsive design, and practical features make it a dependable solution for both casual and advanced users seeking greater efficiency and convenience.",
-    "size": 87,
-    "reviews": 27150,
-    "ratingAvg": 4.7,
-    "downloads": 5801987,
-    "ratings": [
-      {
-        "name": "1 star",
-        "count": 641
-      },
-      {
-        "name": "2 star",
-        "count": 1198
-      },
-      {
-        "name": "3 star",
-        "count": 2438
-      },
-      {
-        "name": "4 star",
-        "count": 9445
-      },
-      {
-        "name": "5 star",
-        "count": 21444
-      }
-    ]
-  },
-  {
-    "image": "https://example.com/apps/booknest.png",
-    "title": "BookNest",
-    "companyName": "Readerly Media",
-    "id": 12,
-    "description": "BookNest is a modern application built to help users simplify everyday activities through powerful tools, intelligent automation, and an intuitive interface. The app combines performance, reliability, and ease of use to deliver a smooth experience across devices. Users can organize information, track progress, access personalized recommendations, collaborate when needed, and gain valuable insights through detailed analytics. Regular updates, responsive design, and practical features make it a dependable solution for both casual and advanced users seeking greater efficiency and convenience.",
-    "size": 116,
-    "reviews": 15794,
-    "ratingAvg": 4.2,
-    "downloads": 4319258,
-    "ratings": [
-      {
-        "name": "1 star",
-        "count": 690
-      },
-      {
-        "name": "2 star",
-        "count": 793
-      },
-      {
-        "name": "3 star",
-        "count": 2806
-      },
-      {
-        "name": "4 star",
-        "count": 4961
-      },
-      {
-        "name": "5 star",
-        "count": 24509
-      }
-    ]
-  },
-  {
-    "image": "https://example.com/apps/focusflow.png",
-    "title": "FocusFlow",
-    "companyName": "FlowWorks",
-    "id": 13,
-    "description": "FocusFlow is a modern application built to help users simplify everyday activities through powerful tools, intelligent automation, and an intuitive interface. The app combines performance, reliability, and ease of use to deliver a smooth experience across devices. Users can organize information, track progress, access personalized recommendations, collaborate when needed, and gain valuable insights through detailed analytics. Regular updates, responsive design, and practical features make it a dependable solution for both casual and advanced users seeking greater efficiency and convenience.",
-    "size": 76,
-    "reviews": 25105,
-    "ratingAvg": 4.3,
-    "downloads": 1955224,
-    "ratings": [
-      {
-        "name": "1 star",
-        "count": 643
-      },
-      {
-        "name": "2 star",
-        "count": 385
-      },
-      {
-        "name": "3 star",
-        "count": 555
-      },
-      {
-        "name": "4 star",
-        "count": 7940
-      },
-      {
-        "name": "5 star",
-        "count": 5006
-      }
-    ]
-  },
-  {
-    "image": "https://example.com/apps/safevault.png",
-    "title": "SafeVault",
-    "companyName": "SecureNet",
-    "id": 14,
-    "description": "SafeVault is a modern application built to help users simplify everyday activities through powerful tools, intelligent automation, and an intuitive interface. The app combines performance, reliability, and ease of use to deliver a smooth experience across devices. Users can organize information, track progress, access personalized recommendations, collaborate when needed, and gain valuable insights through detailed analytics. Regular updates, responsive design, and practical features make it a dependable solution for both casual and advanced users seeking greater efficiency and convenience.",
-    "size": 125,
-    "reviews": 21510,
-    "ratingAvg": 4.6,
-    "downloads": 4641780,
-    "ratings": [
-      {
-        "name": "1 star",
-        "count": 212
-      },
-      {
-        "name": "2 star",
-        "count": 512
-      },
-      {
-        "name": "3 star",
-        "count": 1669
-      },
-      {
-        "name": "4 star",
-        "count": 7369
-      },
-      {
-        "name": "5 star",
-        "count": 5118
-      }
-    ]
-  },
-  {
-    "image": "https://example.com/apps/moviemania.png",
-    "title": "MovieMania",
-    "companyName": "CinemaVerse",
-    "id": 15,
-    "description": "MovieMania is a modern application built to help users simplify everyday activities through powerful tools, intelligent automation, and an intuitive interface. The app combines performance, reliability, and ease of use to deliver a smooth experience across devices. Users can organize information, track progress, access personalized recommendations, collaborate when needed, and gain valuable insights through detailed analytics. Regular updates, responsive design, and practical features make it a dependable solution for both casual and advanced users seeking greater efficiency and convenience.",
-    "size": 44,
-    "reviews": 8318,
-    "ratingAvg": 4.3,
-    "downloads": 721282,
-    "ratings": [
-      {
-        "name": "1 star",
-        "count": 290
-      },
-      {
-        "name": "2 star",
-        "count": 388
-      },
-      {
-        "name": "3 star",
-        "count": 2779
-      },
-      {
-        "name": "4 star",
-        "count": 3575
-      },
-      {
-        "name": "5 star",
-        "count": 27498
-      }
-    ]
-  },
-  {
-    "image": "https://example.com/apps/shopsmart.png",
-    "title": "ShopSmart",
-    "companyName": "RetailEdge",
-    "id": 16,
-    "description": "ShopSmart is a modern application built to help users simplify everyday activities through powerful tools, intelligent automation, and an intuitive interface. The app combines performance, reliability, and ease of use to deliver a smooth experience across devices. Users can organize information, track progress, access personalized recommendations, collaborate when needed, and gain valuable insights through detailed analytics. Regular updates, responsive design, and practical features make it a dependable solution for both casual and advanced users seeking greater efficiency and convenience.",
-    "size": 128,
-    "reviews": 41835,
-    "ratingAvg": 4.9,
-    "downloads": 9737155,
-    "ratings": [
-      {
-        "name": "1 star",
-        "count": 475
-      },
-      {
-        "name": "2 star",
-        "count": 143
-      },
-      {
-        "name": "3 star",
-        "count": 649
-      },
-      {
-        "name": "4 star",
-        "count": 8763
-      },
-      {
-        "name": "5 star",
-        "count": 15837
-      }
-    ]
-  },
-  {
-    "image": "https://example.com/apps/petcare-companion.png",
-    "title": "PetCare Companion",
-    "companyName": "PawTech",
-    "id": 17,
-    "description": "PetCare Companion is a modern application built to help users simplify everyday activities through powerful tools, intelligent automation, and an intuitive interface. The app combines performance, reliability, and ease of use to deliver a smooth experience across devices. Users can organize information, track progress, access personalized recommendations, collaborate when needed, and gain valuable insights through detailed analytics. Regular updates, responsive design, and practical features make it a dependable solution for both casual and advanced users seeking greater efficiency and convenience.",
-    "size": 45,
-    "reviews": 44299,
-    "ratingAvg": 4.7,
-    "downloads": 8352163,
-    "ratings": [
-      {
-        "name": "1 star",
-        "count": 380
-      },
-      {
-        "name": "2 star",
-        "count": 1036
-      },
-      {
-        "name": "3 star",
-        "count": 2925
-      },
-      {
-        "name": "4 star",
-        "count": 8735
-      },
-      {
-        "name": "5 star",
-        "count": 24829
-      }
-    ]
-  },
-  {
-    "image": "https://example.com/apps/mindbloom.png",
-    "title": "MindBloom",
-    "companyName": "Mindful Labs",
-    "id": 18,
-    "description": "MindBloom is a modern application built to help users simplify everyday activities through powerful tools, intelligent automation, and an intuitive interface. The app combines performance, reliability, and ease of use to deliver a smooth experience across devices. Users can organize information, track progress, access personalized recommendations, collaborate when needed, and gain valuable insights through detailed analytics. Regular updates, responsive design, and practical features make it a dependable solution for both casual and advanced users seeking greater efficiency and convenience.",
-    "size": 36,
-    "reviews": 5499,
-    "ratingAvg": 4.6,
-    "downloads": 5031707,
-    "ratings": [
-      {
-        "name": "1 star",
-        "count": 176
-      },
-      {
-        "name": "2 star",
-        "count": 955
-      },
-      {
-        "name": "3 star",
-        "count": 2495
-      },
-      {
-        "name": "4 star",
-        "count": 5544
-      },
-      {
-        "name": "5 star",
-        "count": 13147
-      }
-    ]
-  },
-  {
-    "image": "https://example.com/apps/codecraft.png",
-    "title": "CodeCraft",
-    "companyName": "DevForge",
-    "id": 19,
-    "description": "CodeCraft is a modern application built to help users simplify everyday activities through powerful tools, intelligent automation, and an intuitive interface. The app combines performance, reliability, and ease of use to deliver a smooth experience across devices. Users can organize information, track progress, access personalized recommendations, collaborate when needed, and gain valuable insights through detailed analytics. Regular updates, responsive design, and practical features make it a dependable solution for both casual and advanced users seeking greater efficiency and convenience.",
-    "size": 125,
-    "reviews": 31394,
-    "ratingAvg": 4.8,
-    "downloads": 7373900,
-    "ratings": [
-      {
-        "name": "1 star",
-        "count": 442
-      },
-      {
-        "name": "2 star",
-        "count": 915
-      },
-      {
-        "name": "3 star",
-        "count": 1785
-      },
-      {
-        "name": "4 star",
-        "count": 8963
-      },
-      {
-        "name": "5 star",
-        "count": 21470
-      }
-    ]
-  },
-  {
-    "image": "https://example.com/apps/eventsphere.png",
-    "title": "EventSphere",
-    "companyName": "Eventify",
-    "id": 20,
-    "description": "EventSphere is a modern application built to help users simplify everyday activities through powerful tools, intelligent automation, and an intuitive interface. The app combines performance, reliability, and ease of use to deliver a smooth experience across devices. Users can organize information, track progress, access personalized recommendations, collaborate when needed, and gain valuable insights through detailed analytics. Regular updates, responsive design, and practical features make it a dependable solution for both casual and advanced users seeking greater efficiency and convenience.",
-    "size": 110,
-    "reviews": 26776,
-    "ratingAvg": 4.6,
-    "downloads": 5714155,
-    "ratings": [
-      {
-        "name": "1 star",
-        "count": 109
-      },
-      {
-        "name": "2 star",
-        "count": 359
-      },
-      {
-        "name": "3 star",
-        "count": 372
-      },
-      {
-        "name": "4 star",
-        "count": 7640
-      },
-      {
-        "name": "5 star",
-        "count": 14627
-      }
-    ]
-  },
-  {
-    "image": "https://example.com/apps/newsflash.png",
-    "title": "NewsFlash",
-    "companyName": "Pulse Media",
-    "id": 21,
-    "description": "NewsFlash is a modern application built to help users simplify everyday activities through powerful tools, intelligent automation, and an intuitive interface. The app combines performance, reliability, and ease of use to deliver a smooth experience across devices. Users can organize information, track progress, access personalized recommendations, collaborate when needed, and gain valuable insights through detailed analytics. Regular updates, responsive design, and practical features make it a dependable solution for both casual and advanced users seeking greater efficiency and convenience.",
-    "size": 95,
-    "reviews": 46068,
-    "ratingAvg": 4.8,
-    "downloads": 4331144,
-    "ratings": [
-      {
-        "name": "1 star",
-        "count": 629
-      },
-      {
-        "name": "2 star",
-        "count": 778
-      },
-      {
-        "name": "3 star",
-        "count": 879
-      },
-      {
-        "name": "4 star",
-        "count": 3598
-      },
-      {
-        "name": "5 star",
-        "count": 17717
-      }
-    ]
-  },
-  {
-    "image": "https://example.com/apps/designstudio.png",
-    "title": "DesignStudio",
-    "companyName": "Creative Stack",
-    "id": 22,
-    "description": "DesignStudio is a modern application built to help users simplify everyday activities through powerful tools, intelligent automation, and an intuitive interface. The app combines performance, reliability, and ease of use to deliver a smooth experience across devices. Users can organize information, track progress, access personalized recommendations, collaborate when needed, and gain valuable insights through detailed analytics. Regular updates, responsive design, and practical features make it a dependable solution for both casual and advanced users seeking greater efficiency and convenience.",
-    "size": 136,
-    "reviews": 31429,
-    "ratingAvg": 4.2,
-    "downloads": 635962,
-    "ratings": [
-      {
-        "name": "1 star",
-        "count": 326
-      },
-      {
-        "name": "2 star",
-        "count": 764
-      },
-      {
-        "name": "3 star",
-        "count": 1513
-      },
-      {
-        "name": "4 star",
-        "count": 11375
-      },
-      {
-        "name": "5 star",
-        "count": 29913
-      }
-    ]
-  },
-  {
-    "image": "https://example.com/apps/quicknotes.png",
-    "title": "QuickNotes",
-    "companyName": "NoteWorks",
-    "id": 23,
-    "description": "QuickNotes is a modern application built to help users simplify everyday activities through powerful tools, intelligent automation, and an intuitive interface. The app combines performance, reliability, and ease of use to deliver a smooth experience across devices. Users can organize information, track progress, access personalized recommendations, collaborate when needed, and gain valuable insights through detailed analytics. Regular updates, responsive design, and practical features make it a dependable solution for both casual and advanced users seeking greater efficiency and convenience.",
-    "size": 123,
-    "reviews": 34425,
-    "ratingAvg": 4.7,
-    "downloads": 6344649,
-    "ratings": [
-      {
-        "name": "1 star",
-        "count": 147
-      },
-      {
-        "name": "2 star",
-        "count": 165
-      },
-      {
-        "name": "3 star",
-        "count": 890
-      },
-      {
-        "name": "4 star",
-        "count": 3202
-      },
-      {
-        "name": "5 star",
-        "count": 26142
-      }
-    ]
-  },
-  {
-    "image": "https://example.com/apps/careerpilot.png",
-    "title": "CareerPilot",
-    "companyName": "FuturePath",
-    "id": 24,
-    "description": "CareerPilot is a modern application built to help users simplify everyday activities through powerful tools, intelligent automation, and an intuitive interface. The app combines performance, reliability, and ease of use to deliver a smooth experience across devices. Users can organize information, track progress, access personalized recommendations, collaborate when needed, and gain valuable insights through detailed analytics. Regular updates, responsive design, and practical features make it a dependable solution for both casual and advanced users seeking greater efficiency and convenience.",
-    "size": 143,
-    "reviews": 30237,
-    "ratingAvg": 4.5,
-    "downloads": 7186936,
-    "ratings": [
-      {
-        "name": "1 star",
-        "count": 439
-      },
-      {
-        "name": "2 star",
-        "count": 543
-      },
-      {
-        "name": "3 star",
-        "count": 2752
-      },
-      {
-        "name": "4 star",
-        "count": 6997
-      },
-      {
-        "name": "5 star",
-        "count": 17016
-      }
-    ]
-  },
-  {
-    "image": "https://example.com/apps/sleepbetter.png",
-    "title": "SleepBetter",
-    "companyName": "RestWell",
-    "id": 25,
-    "description": "SleepBetter is a modern application built to help users simplify everyday activities through powerful tools, intelligent automation, and an intuitive interface. The app combines performance, reliability, and ease of use to deliver a smooth experience across devices. Users can organize information, track progress, access personalized recommendations, collaborate when needed, and gain valuable insights through detailed analytics. Regular updates, responsive design, and practical features make it a dependable solution for both casual and advanced users seeking greater efficiency and convenience.",
-    "size": 112,
-    "reviews": 45409,
-    "ratingAvg": 4.3,
-    "downloads": 188492,
-    "ratings": [
-      {
-        "name": "1 star",
-        "count": 398
-      },
-      {
-        "name": "2 star",
-        "count": 482
-      },
-      {
-        "name": "3 star",
-        "count": 2976
-      },
-      {
-        "name": "4 star",
-        "count": 3585
-      },
-      {
-        "name": "5 star",
-        "count": 19452
-      }
-    ]
-  },
-  {
-    "image": "https://example.com/apps/foodiefinder.png",
-    "title": "FoodieFinder",
-    "companyName": "TasteTrail",
-    "id": 26,
-    "description": "FoodieFinder is a modern application built to help users simplify everyday activities through powerful tools, intelligent automation, and an intuitive interface. The app combines performance, reliability, and ease of use to deliver a smooth experience across devices. Users can organize information, track progress, access personalized recommendations, collaborate when needed, and gain valuable insights through detailed analytics. Regular updates, responsive design, and practical features make it a dependable solution for both casual and advanced users seeking greater efficiency and convenience.",
-    "size": 131,
-    "reviews": 11241,
-    "ratingAvg": 4.7,
-    "downloads": 4357053,
-    "ratings": [
-      {
-        "name": "1 star",
-        "count": 83
-      },
-      {
-        "name": "2 star",
-        "count": 991
-      },
-      {
-        "name": "3 star",
-        "count": 2246
-      },
-      {
-        "name": "4 star",
-        "count": 8497
-      },
-      {
-        "name": "5 star",
-        "count": 13238
-      }
-    ]
-  },
-  {
-    "image": "https://example.com/apps/cryptotrack.png",
-    "title": "CryptoTrack",
-    "companyName": "BlockMetrics",
-    "id": 27,
-    "description": "CryptoTrack is a modern application built to help users simplify everyday activities through powerful tools, intelligent automation, and an intuitive interface. The app combines performance, reliability, and ease of use to deliver a smooth experience across devices. Users can organize information, track progress, access personalized recommendations, collaborate when needed, and gain valuable insights through detailed analytics. Regular updates, responsive design, and practical features make it a dependable solution for both casual and advanced users seeking greater efficiency and convenience.",
-    "size": 37,
-    "reviews": 18558,
+    "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?auto=format&fit=crop&w=600&h=400&q=80",
+    "title": "Crypto Vault: Wallet & Web3",
+    "companyName": "NetSec Technologies",
+    "size": 35.8,
+    "reviews": 5600,
     "ratingAvg": 4.1,
-    "downloads": 563739,
+    "downloads": 100000,
+    "description": "Navigate the complex landscape of decentralized finance safely using Crypto Vault Secure Decentralized Digital Asset Wallet, the industry benchmark for self-custodial cryptographic asset management. Engineered with biometric hardware-level encryption protocols and advanced seed phrase isolation mechanisms.",
     "ratings": [
-      {
-        "name": "1 star",
-        "count": 190
-      },
-      {
-        "name": "2 star",
-        "count": 918
-      },
-      {
-        "name": "3 star",
-        "count": 1208
-      },
-      {
-        "name": "4 star",
-        "count": 6680
-      },
-      {
-        "name": "5 star",
-        "count": 20111
-      }
+      { "name": "1 star", "count": 400 },
+      { "name": "2 star", "count": 300 },
+      { "name": "3 star", "count": 600 },
+      { "name": "4 star", "count": 1300 },
+      { "name": "5 star", "count": 3000 }
     ]
   },
   {
-    "image": "https://example.com/apps/homeplanner.png",
-    "title": "HomePlanner",
-    "companyName": "SmartLiving",
-    "id": 28,
-    "description": "HomePlanner is a modern application built to help users simplify everyday activities through powerful tools, intelligent automation, and an intuitive interface. The app combines performance, reliability, and ease of use to deliver a smooth experience across devices. Users can organize information, track progress, access personalized recommendations, collaborate when needed, and gain valuable insights through detailed analytics. Regular updates, responsive design, and practical features make it a dependable solution for both casual and advanced users seeking greater efficiency and convenience.",
-    "size": 125,
-    "reviews": 25590,
-    "ratingAvg": 4.8,
-    "downloads": 6303150,
+    "id": 5,
+    "image": "https://images.unsplash.com/photo-1556910103-1c02745aae4d?auto=format&fit=crop&w=600&h=400&q=80",
+    "title": "Chef Assistant: Meals & Pantry",
+    "companyName": "Gourmet Labs",
+    "size": 52.4,
+    "reviews": 15200,
+    "ratingAvg": 4.7,
+    "downloads": 800000,
+    "description": "Transform your daily culinary routines with Chef Assistant Interactive Recipe Book, a comprehensive gastronomic ecosystem designed to elevate your home dining experiences from ordinary to exceptional. This intuitive platform dynamically scales ingredients based on desired guest portions.",
     "ratings": [
-      {
-        "name": "1 star",
-        "count": 796
-      },
-      {
-        "name": "2 star",
-        "count": 492
-      },
-      {
-        "name": "3 star",
-        "count": 1523
-      },
-      {
-        "name": "4 star",
-        "count": 11537
-      },
-      {
-        "name": "5 star",
-        "count": 22949
-      }
+      { "name": "1 star", "count": 200 },
+      { "name": "2 star", "count": 300 },
+      { "name": "3 star", "count": 1200 },
+      { "name": "4 star", "count": 3500 },
+      { "name": "10000", "count": 10000 }
     ]
   },
   {
-    "image": "https://example.com/apps/yogadaily.png",
-    "title": "YogaDaily",
-    "companyName": "ZenMotion",
-    "id": 29,
-    "description": "YogaDaily is a modern application built to help users simplify everyday activities through powerful tools, intelligent automation, and an intuitive interface. The app combines performance, reliability, and ease of use to deliver a smooth experience across devices. Users can organize information, track progress, access personalized recommendations, collaborate when needed, and gain valuable insights through detailed analytics. Regular updates, responsive design, and practical features make it a dependable solution for both casual and advanced users seeking greater efficiency and convenience.",
-    "size": 36,
-    "reviews": 42039,
-    "ratingAvg": 4.3,
-    "downloads": 3562169,
+    "id": 6,
+    "image": "https://images.unsplash.com/photo-1546410531-bb4caa6b424d?auto=format&fit=crop&w=600&h=400&q=80",
+    "title": "Lingo Master: Speak & Learn",
+    "companyName": "Lexicon Media",
+    "size": 88.0,
+    "reviews": 42300,
+    "ratingAvg": 4.5,
+    "downloads": 2000000,
+    "description": "Mastering a new language has never been more accessible than with Lingo Master Immersive Language Learning Platform, an advanced educational application powered by sophisticated cognitive linguistic algorithms. Offering comprehensive curricula across dozens of global dialects.",
     "ratings": [
-      {
-        "name": "1 star",
-        "count": 700
-      },
-      {
-        "name": "2 star",
-        "count": 874
-      },
-      {
-        "name": "3 star",
-        "count": 2365
-      },
-      {
-        "name": "4 star",
-        "count": 11926
-      },
-      {
-        "name": "5 star",
-        "count": 9361
-      }
+      { "name": "1 star", "count": 800 },
+      { "name": "2 star", "count": 1200 },
+      { "name": "3 star", "count": 3500 },
+      { "name": "4 star", "count": 11800 },
+      { "name": "5 star", "count": 25000 }
     ]
   },
   {
-    "image": "https://example.com/apps/kidslearn.png",
-    "title": "KidsLearn",
-    "companyName": "BrightKids",
-    "id": 30,
-    "description": "KidsLearn is a modern application built to help users simplify everyday activities through powerful tools, intelligent automation, and an intuitive interface. The app combines performance, reliability, and ease of use to deliver a smooth experience across devices. Users can organize information, track progress, access personalized recommendations, collaborate when needed, and gain valuable insights through detailed analytics. Regular updates, responsive design, and practical features make it a dependable solution for both casual and advanced users seeking greater efficiency and convenience.",
-    "size": 103,
-    "reviews": 30897,
-    "ratingAvg": 4.2,
-    "downloads": 2464664,
+    "id": 7,
+    "image": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?auto=format&fit=crop&w=600&h=400&q=80",
+    "title": "MindSpace: Calm & Meditate",
+    "companyName": "Serene Minds LLC",
+    "size": 42.1,
+    "reviews": 21900,
+    "ratingAvg": 4.6,
+    "downloads": 1200000,
+    "description": "Discover a profound sense of inner tranquility amid the chaos of daily obligations with MindSpace Guided Meditation App, a clinically informed psychological wellness platform. Offering hundreds of hours of carefully structured audio content.",
     "ratings": [
-      {
-        "name": "1 star",
-        "count": 292
-      },
-      {
-        "name": "2 star",
-        "count": 554
-      },
-      {
-        "name": "3 star",
-        "count": 1516
-      },
-      {
-        "name": "4 star",
-        "count": 8897
-      },
-      {
-        "name": "5 star",
-        "count": 27435
-      }
+      { "name": "1 star", "count": 300 },
+      { "name": "2 star", "count": 500 },
+      { "name": "3 star", "count": 1800 },
+      { "name": "4 star", "count": 5300 },
+      { "name": "5 star", "count": 14000 }
     ]
   },
   {
-    "image": "https://example.com/apps/autocare.png",
-    "title": "AutoCare",
-    "companyName": "DriveTech",
-    "id": 31,
-    "description": "AutoCare is a modern application built to help users simplify everyday activities through powerful tools, intelligent automation, and an intuitive interface. The app combines performance, reliability, and ease of use to deliver a smooth experience across devices. Users can organize information, track progress, access personalized recommendations, collaborate when needed, and gain valuable insights through detailed analytics. Regular updates, responsive design, and practical features make it a dependable solution for both casual and advanced users seeking greater efficiency and convenience.",
-    "size": 149,
-    "reviews": 14626,
-    "ratingAvg": 4.2,
-    "downloads": 8945548,
-    "ratings": [
-      {
-        "name": "1 star",
-        "count": 134
-      },
-      {
-        "name": "2 star",
-        "count": 1196
-      },
-      {
-        "name": "3 star",
-        "count": 2560
-      },
-      {
-        "name": "4 star",
-        "count": 5908
-      },
-      {
-        "name": "5 star",
-        "count": 10273
-      }
-    ]
-  },
-  {
-    "image": "https://example.com/apps/podcasthub.png",
-    "title": "PodcastHub",
-    "companyName": "AudioWave",
-    "id": 32,
-    "description": "PodcastHub is a modern application built to help users simplify everyday activities through powerful tools, intelligent automation, and an intuitive interface. The app combines performance, reliability, and ease of use to deliver a smooth experience across devices. Users can organize information, track progress, access personalized recommendations, collaborate when needed, and gain valuable insights through detailed analytics. Regular updates, responsive design, and practical features make it a dependable solution for both casual and advanced users seeking greater efficiency and convenience.",
-    "size": 39,
-    "reviews": 44254,
-    "ratingAvg": 4.8,
-    "downloads": 2064598,
-    "ratings": [
-      {
-        "name": "1 star",
-        "count": 434
-      },
-      {
-        "name": "2 star",
-        "count": 955
-      },
-      {
-        "name": "3 star",
-        "count": 1006
-      },
-      {
-        "name": "4 star",
-        "count": 5924
-      },
-      {
-        "name": "5 star",
-        "count": 14524
-      }
-    ]
-  },
-  {
-    "image": "https://example.com/apps/greenhabit.png",
-    "title": "GreenHabit",
-    "companyName": "EcoFuture",
-    "id": 33,
-    "description": "GreenHabit is a modern application built to help users simplify everyday activities through powerful tools, intelligent automation, and an intuitive interface. The app combines performance, reliability, and ease of use to deliver a smooth experience across devices. Users can organize information, track progress, access personalized recommendations, collaborate when needed, and gain valuable insights through detailed analytics. Regular updates, responsive design, and practical features make it a dependable solution for both casual and advanced users seeking greater efficiency and convenience.",
-    "size": 55,
-    "reviews": 7164,
+    "id": 8,
+    "image": "https://images.unsplash.com/photo-1559526324-4b87b5e36e44?auto=format&fit=crop&w=600&h=400&q=80",
+    "title": "Finance Flow: Budget & Spend",
+    "companyName": "Fiscal Tech",
+    "size": 31.4,
+    "reviews": 11200,
     "ratingAvg": 4.4,
-    "downloads": 9501624,
+    "downloads": 600000,
+    "description": "Take absolute control over your personal economic destiny using Finance Flow Automated Expense Tracker, a secure financial synchronization engine designed for contemporary fiscal management. By linking safely with thousands of global banking institutions.",
     "ratings": [
-      {
-        "name": "1 star",
-        "count": 587
-      },
-      {
-        "name": "2 star",
-        "count": 287
-      },
-      {
-        "name": "3 star",
-        "count": 1786
-      },
-      {
-        "name": "4 star",
-        "count": 10336
-      },
-      {
-        "name": "5 star",
-        "count": 18326
-      }
+      { "name": "1 star", "count": 450 },
+      { "name": "2 star", "count": 550 },
+      { "name": "3 star", "count": 1200 },
+      { "name": "4 star", "count": 3000 },
+      { "name": "5 star", "count": 6000 }
     ]
   },
   {
-    "image": "https://example.com/apps/sportsarena.png",
-    "title": "SportsArena",
-    "companyName": "Arena Digital",
-    "id": 34,
-    "description": "SportsArena is a modern application built to help users simplify everyday activities through powerful tools, intelligent automation, and an intuitive interface. The app combines performance, reliability, and ease of use to deliver a smooth experience across devices. Users can organize information, track progress, access personalized recommendations, collaborate when needed, and gain valuable insights through detailed analytics. Regular updates, responsive design, and practical features make it a dependable solution for both casual and advanced users seeking greater efficiency and convenience.",
-    "size": 127,
-    "reviews": 9325,
+    "id": 9,
+    "image": "https://images.unsplash.com/photo-1506318137071-a8e063b4bec0?auto=format&fit=crop&w=600&h=400&q=80",
+    "title": "Star Navigator: Sky & Stars",
+    "companyName": "Cosmic View",
+    "size": 145.0,
+    "reviews": 6700,
+    "ratingAvg": 4.2,
+    "downloads": 400000,
+    "description": "Convert your standard smartphone into a highly sophisticated astronomical observatory window with Star Navigator Augmented Reality Astronomy Guide. Utilizing internal gyroscopic sensors, magnetic compasses, and precise GPS positioning coordinates.",
+    "ratings": [
+      { "name": "1 star", "count": 310 },
+      { "name": "2 star", "count": 490 },
+      { "name": "3 star", "count": 900 },
+      { "name": "4 star", "count": 1500 },
+      { "name": "5 star", "count": 3500 }
+    ]
+  },
+  {
+    "id": 10,
+    "image": "https://images.unsplash.com/photo-1492144534655-ae79c964c9d7?auto=format&fit=crop&w=600&h=400&q=80",
+    "title": "DriveSafely: Dashcam & Route",
+    "companyName": "AutoTech Solutions",
+    "size": 59.3,
+    "reviews": 4800,
+    "ratingAvg": 4.0,
+    "downloads": 300000,
+    "description": "Enhance your vehicular security and operational road awareness utilizing DriveSafely Intelligent Dashcam Application, an advanced automotive telematics platform that records video telemetry data without requiring specialized hardware installations.",
+    "ratings": [
+      { "name": "1 star", "count": 400 },
+      { "name": "2 star", "count": 500 },
+      { "name": "3 star", "count": 800 },
+      { "name": "4 star", "count": 1100 },
+      { "name": "5 star", "count": 2000 }
+    ]
+  },
+  {
+    "id": 11,
+    "image": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?auto=format&fit=crop&w=600&h=400&q=80",
+    "title": "VectorDraw Studio: SVG Art",
+    "companyName": "DesignWorks Inc.",
+    "size": 110.2,
+    "reviews": 7300,
+    "ratingAvg": 4.5,
+    "downloads": 350000,
+    "description": "VectorDraw Studio provides an unparalleled digital illustration workspace designed explicitly to meet the rigorous demands of professional graphic designers, brand architects, and digital artists.",
+    "ratings": [
+      { "name": "1 star", "count": 150 },
+      { "name": "2 star", "count": 350 },
+      { "name": "3 star", "count": 800 },
+      { "name": "4 star", "count": 2000 },
+      { "name": "5 star", "count": 4000 }
+    ]
+  },
+  {
+    "id": 12,
+    "image": "https://images.unsplash.com/photo-1598488035139-bdbb2231ce04?auto=format&fit=crop&w=600&h=400&q=80",
+    "title": "AudioForge: DAW & Podcast",
+    "companyName": "Sonic Wave Audio",
+    "size": 134.7,
+    "reviews": 5100,
+    "ratingAvg": 4.3,
+    "downloads": 200000,
+    "description": "AudioForge transforms your mobile device into a high-fidelity digital audio workstation equipped for multitrack recording, intricate sample editing, and professional-grade sonic mastering.",
+    "ratings": [
+      { "name": "1 star", "count": 210 },
+      { "name": "2 star", "count": 390 },
+      { "name": "3 star", "count": 700 },
+      { "name": "4 star", "count": 1300 },
+      { "name": "5 star", "count": 2500 }
+    ]
+  },
+  {
+    "id": 13,
+    "image": "https://images.unsplash.com/photo-1506784983877-45594efa4cbe?auto=format&fit=crop&w=600&h=400&q=80",
+    "title": "HabitBuilder: Routine Tracker",
+    "companyName": "Focus Forge",
+    "size": 22.9,
+    "reviews": 19400,
     "ratingAvg": 4.8,
-    "downloads": 728697,
+    "downloads": 1100000,
+    "description": "Engineered on proven principles of behavioral psychology, HabitBuilder Daily Routine Organizer acts as your personal accountability coach, gently steering you toward positive lifestyle adaptations.",
     "ratings": [
-      {
-        "name": "1 star",
-        "count": 128
-      },
-      {
-        "name": "2 star",
-        "count": 428
-      },
-      {
-        "name": "3 star",
-        "count": 624
-      },
-      {
-        "name": "4 star",
-        "count": 6502
-      },
-      {
-        "name": "5 star",
-        "count": 27774
-      }
+      { "name": "1 star", "count": 180 },
+      { "name": "2 star", "count": 320 },
+      { "name": "3 star", "count": 1100 },
+      { "name": "4 star", "count": 4300 },
+      { "name": "5 star", "count": 13500 }
     ]
   },
   {
-    "image": "https://example.com/apps/artcanvas.png",
-    "title": "ArtCanvas",
-    "companyName": "Artify Labs",
-    "id": 35,
-    "description": "ArtCanvas is a modern application built to help users simplify everyday activities through powerful tools, intelligent automation, and an intuitive interface. The app combines performance, reliability, and ease of use to deliver a smooth experience across devices. Users can organize information, track progress, access personalized recommendations, collaborate when needed, and gain valuable insights through detailed analytics. Regular updates, responsive design, and practical features make it a dependable solution for both casual and advanced users seeking greater efficiency and convenience.",
-    "size": 54,
-    "reviews": 18665,
+    "id": 14,
+    "image": "https://images.unsplash.com/photo-1448375240586-882707db888b?auto=format&fit=crop&w=600&h=400&q=80",
+    "title": "Plant Doctor: Care & Remind",
+    "companyName": "Green Thumb Tech",
+    "size": 47.6,
+    "reviews": 9300,
+    "ratingAvg": 4.4,
+    "downloads": 500000,
+    "description": "Keep your indoor and outdoor flora flourishing with Plant Doctor Artificial Intelligence Botanical Diagnostics Guide, the definitive tool for horticulturists and casual gardening enthusiasts.",
+    "ratings": [
+      { "name": "1 star", "count": 250 },
+      { "name": "2 star", "count": 450 },
+      { "name": "3 star", "count": 1100 },
+      { "name": "4 star", "count": 2500 },
+      { "name": "5 star", "count": 5000 }
+    ]
+  },
+  {
+    "id": 15,
+    "image": "https://images.unsplash.com/photo-1563986768609-322da13575f3?auto=format&fit=crop&w=600&h=400&q=80",
+    "title": "SecurePass: Vault & 2FA",
+    "companyName": "Cipher Shield",
+    "size": 18.3,
+    "reviews": 16700,
     "ratingAvg": 4.8,
-    "downloads": 6034390,
+    "downloads": 950000,
+    "description": "Protect your digital identity against aggressive cyber threats using SecurePass Enterprise Password Vault, an advanced zero-knowledge security environment designed to store credentials.",
     "ratings": [
-      {
-        "name": "1 star",
-        "count": 751
-      },
-      {
-        "name": "2 star",
-        "count": 874
-      },
-      {
-        "name": "3 star",
-        "count": 1595
-      },
-      {
-        "name": "4 star",
-        "count": 7099
-      },
-      {
-        "name": "5 star",
-        "count": 15581
-      }
+      { "name": "1 star", "count": 120 },
+      { "name": "2 star", "count": 180 },
+      { "name": "3 star", "count": 600 },
+      { "name": "4 star", "count": 3300 },
+      { "name": "5 star", "count": 12500 }
     ]
   },
   {
-    "image": "https://example.com/apps/clouddrive.png",
-    "title": "CloudDrive",
-    "companyName": "Nimbus Cloud",
-    "id": 36,
-    "description": "CloudDrive is a modern application built to help users simplify everyday activities through powerful tools, intelligent automation, and an intuitive interface. The app combines performance, reliability, and ease of use to deliver a smooth experience across devices. Users can organize information, track progress, access personalized recommendations, collaborate when needed, and gain valuable insights through detailed analytics. Regular updates, responsive design, and practical features make it a dependable solution for both casual and advanced users seeking greater efficiency and convenience.",
-    "size": 106,
-    "reviews": 9120,
+    "id": 16,
+    "image": "https://images.unsplash.com/photo-1501555088652-021faa106b9b?auto=format&fit=crop&w=600&h=400&q=80",
+    "title": "TrailBlazer: Maps & Hiking",
+    "companyName": "GeoWild Apps",
+    "size": 155.4,
+    "reviews": 8100,
+    "ratingAvg": 4.6,
+    "downloads": 400000,
+    "description": "Venture off the grid with supreme confidence utilizing TrailBlazer Offline Topographic Maps, an advanced backcountry navigation engine designed for avid hikers.",
+    "ratings": [
+      { "name": "1 star", "count": 190 },
+      { "name": "2 star", "count": 310 },
+      { "name": "3 star", "count": 800 },
+      { "name": "4 star", "count": 2000 },
+      { "name": "5 star", "count": 4800 }
+    ]
+  },
+  {
+    "id": 17,
+    "image": "https://images.unsplash.com/photo-1511295742364-92b9345f6852?auto=format&fit=crop&w=600&h=400&q=80",
+    "title": "SleepGenius: Rest & Snore",
+    "companyName": "Somnus Labs",
+    "size": 39.5,
+    "reviews": 14200,
+    "ratingAvg": 4.3,
+    "downloads": 750000,
+    "description": "Unlock deep, restorative nocturnal relaxation through SleepGenius Smart Behavioral Sleep Laboratory, an advanced sleep monitoring environment.",
+    "ratings": [
+      { "name": "1 star", "count": 550 },
+      { "name": "2 star", "count": 750 },
+      { "name": "3 star", "count": 1900 },
+      { "name": "4 star", "count": 3500 },
+      { "name": "5 star", "count": 7500 }
+    ]
+  },
+  {
+    "id": 18,
+    "image": "https://images.unsplash.com/photo-1586281380349-632531db7ed4?auto=format&fit=crop&w=600&h=400&q=80",
+    "title": "ScanMaster: PDF & OCR",
+    "companyName": "DocuTech Tools",
+    "size": 28.7,
+    "reviews": 23500,
+    "ratingAvg": 4.7,
+    "downloads": 1800000,
+    "description": "Eliminate administrative paper clutter instantly with ScanMaster Ultra HD Mobile Document Scanner, a powerful productivity utility that turns your smartphone camera into a multi-page document digitizer.",
+    "ratings": [
+      { "name": "1 star", "count": 200 },
+      { "name": "2 star", "count": 400 },
+      { "name": "3 star", "count": 1400 },
+      { "name": "4 star", "count": 5500 },
+      { "name": "5 star", "count": 16000 }
+    ]
+  },
+  {
+    "id": 19,
+    "image": "https://images.unsplash.com/photo-1543083567-e653c48a8a41?auto=format&fit=crop&w=600&h=400&q=80",
+    "title": "ChefInventory: Pantry & List",
+    "companyName": "Kitchen Labs",
+    "size": 33.1,
+    "reviews": 3200,
+    "ratingAvg": 4.1,
+    "downloads": 150000,
+    "description": "Optimize your domestic culinary resources with ChefInventory Smart Pantry Tracking System, a highly practical application dedicated to eliminating domestic food waste.",
+    "ratings": [
+      { "name": "1 star", "count": 210 },
+      { "name": "2 star", "count": 290 },
+      { "name": "3 star", "count": 500 },
+      { "name": "4 star", "count": 1000 },
+      { "name": "5 star", "count": 1200 }
+    ]
+  },
+  {
+    "id": 20,
+    "image": "https://images.unsplash.com/photo-1542831371-29b0f74f9713?auto=format&fit=crop&w=600&h=400&q=80",
+    "title": "CodeForge: IDE & Compiler",
+    "companyName": "DevCore Systems",
+    "size": 74.2,
+    "reviews": 6100,
+    "ratingAvg": 4.4,
+    "downloads": 300000,
+    "description": "Write code seamlessly from anywhere in the world using CodeForge Mobile Integrated Development Environment, a robust mobile coding environment built for engineers.",
+    "ratings": [
+      { "name": "1 star", "count": 250 },
+      { "name": "2 star", "count": 350 },
+      { "name": "3 star", "count": 700 },
+      { "name": "4 star", "count": 1800 },
+      { "name": "5 star", "count": 3000 }
+    ]
+  },
+  {
+    "id": 21,
+    "image": "https://images.unsplash.com/photo-1455390582262-044cdead277a?auto=format&fit=crop&w=600&h=400&q=80",
+    "title": "ZenWriter: Text & Markdown",
+    "companyName": "Literary Tech",
+    "size": 21.0,
+    "reviews": 4300,
+    "ratingAvg": 4.8,
+    "downloads": 200000,
+    "description": "Escape the endless notifications of digital life and focus entirely on your literary creation with ZenWriter Distraction Free Markdown Text Editor.",
+    "ratings": [
+      { "name": "1 star", "count": 90 },
+      { "name": "2 star", "count": 210 },
+      { "name": "3 star", "count": 500 },
+      { "name": "4 star", "count": 1100 },
+      { "name": "5 star", "count": 2400 }
+    ]
+  },
+  {
+    "id": 22,
+    "image": "https://images.unsplash.com/photo-1512438248247-f0f2a5a8b7f0?auto=format&fit=crop&w=600&h=400&q=80",
+    "title": "SoundScape Pro: Noise & Ambient",
+    "companyName": "Acoustic Relief",
+    "size": 55.6,
+    "reviews": 11700,
+    "ratingAvg": 4.5,
+    "downloads": 800000,
+    "description": "Design your ideal custom auditory environment using SoundScape Pro White Noise Generator, a comprehensive sonic application engineered to improve concentration.",
+    "ratings": [
+      { "name": "1 star", "count": 320 },
+      { "name": "2 star", "count": 480 },
+      { "name": "3 star", "count": 1100 },
+      { "name": "4 star", "count": 2800 },
+      { "name": "5 star", "count": 7000 }
+    ]
+  },
+  {
+    "id": 23,
+    "image": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?auto=format&fit=crop&w=600&h=400&q=80",
+    "title": "StockPulse: Market & Portfolio",
+    "companyName": "QuantVest Media",
+    "size": 41.8,
+    "reviews": 7900,
+    "ratingAvg": 4.2,
+    "downloads": 450000,
+    "description": "Stay steps ahead of global financial markets with StockPulse Real Time Market Analytics, an institutional-grade investment monitoring environment.",
+    "ratings": [
+      { "name": "1 star", "count": 410 },
+      { "name": "2 star", "count": 590 },
+      { "name": "3 star", "count": 1100 },
+      { "name": "4 star", "count": 2100 },
+      { "name": "5 star", "count": 3700 }
+    ]
+  },
+  {
+    "id": 24,
+    "image": "https://images.unsplash.com/photo-1543857778-c4a1a3e0b2eb?auto=format&fit=crop&w=600&h=400&q=80",
+    "title": "ArtHistory: Museum & Masters",
+    "companyName": "EduMuse Media",
+    "size": 95.1,
+    "reviews": 3800,
     "ratingAvg": 4.9,
-    "downloads": 7548851,
+    "downloads": 150000,
+    "description": "Embark on an enriching journey through centuries of human creative expression via ArtHistory Interactive Virtual Museum Guide.",
     "ratings": [
-      {
-        "name": "1 star",
-        "count": 748
-      },
-      {
-        "name": "2 star",
-        "count": 942
-      },
-      {
-        "name": "3 star",
-        "count": 561
-      },
-      {
-        "name": "4 star",
-        "count": 6830
-      },
-      {
-        "name": "5 star",
-        "count": 25988
-      }
+      { "name": "1 star", "count": 50 },
+      { "name": "2 star", "count": 100 },
+      { "name": "3 star", "count": 350 },
+      { "name": "4 star", "count": 900 },
+      { "name": "5 star", "count": 2400 }
+    ]
+  },
+  {
+    "id": 25,
+    "image": "https://images.unsplash.com/photo-1516734212186-a967f81ad0d7?auto=format&fit=crop&w=600&h=400&q=80",
+    "title": "PetLog: Vet & Health",
+    "companyName": "VetiCare Digital",
+    "size": 34.6,
+    "reviews": 5200,
+    "ratingAvg": 4.4,
+    "downloads": 250000,
+    "description": "Organize every critical facet of your animal companions health journey using PetLog Ultimate Veterinary Health Assistant. Purpose-built for domestic animal caretakers.",
+    "ratings": [
+      { "name": "1 star", "count": 180 },
+      { "name": "2 star", "count": 320 },
+      { "name": "3 star", "count": 700 },
+      { "name": "4 star", "count": 1500 },
+      { "name": "5 star", "count": 2500 }
+    ]
+  },
+  {
+    "id": 26,
+    "image": "https://images.unsplash.com/photo-1509228468518-180dd4864904?auto=format&fit=crop&w=600&h=400&q=80",
+    "title": "MathSolver: Algebra & Calculus",
+    "companyName": "Sigma Math Tech",
+    "size": 29.8,
+    "reviews": 18200,
+    "ratingAvg": 4.5,
+    "downloads": 1000000,
+    "description": "Demystify intricate numerical expressions effortlessly using MathSolver Step By Step Equation Calculator, the premier mathematical learning tool.",
+    "ratings": [
+      { "name": "1 star", "count": 450 },
+      { "name": "2 star", "count": 650 },
+      { "name": "3 star", "count": 1600 },
+      { "name": "4 star", "count": 4500 },
+      { "name": "5 star", "count": 11000 }
+    ]
+  },
+  {
+    "id": 27,
+    "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?auto=format&fit=crop&w=600&h=400&q=80",
+    "title": "WineCellar: Sommelier & Vault",
+    "companyName": "VinoData Inc.",
+    "size": 48.9,
+    "reviews": 2900,
+    "ratingAvg": 4.3,
+    "downloads": 100000,
+    "description": "Curate and document your private oenological collections like an absolute industry master using WineCellar Sommelier Vintage Evaluation Registry.",
+    "ratings": [
+      { "name": "1 star", "count": 110 },
+      { "name": "2 star", "count": 190 },
+      { "name": "3 star", "count": 400 },
+      { "name": "4 star", "count": 800 },
+      { "name": "5 star", "count": 1400 }
+    ]
+  },
+  {
+    "id": 28,
+    "image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=600&h=400&q=80",
+    "title": "Space Frontier: Satellite & Orbit",
+    "companyName": "AstroNetwork",
+    "size": 63.4,
+    "reviews": 4100,
+    "ratingAvg": 4.9,
+    "downloads": 200000,
+    "description": "Monitor human exploration beyond Earth atmospheric boundaries using Space Frontier Real Time Satellite Tracking Array.",
+    "ratings": [
+      { "name": "1 star", "count": 90 },
+      { "name": "2 star", "count": 160 },
+      { "name": "3 star", "count": 450 },
+      { "name": "4 star", "count": 1100 },
+      { "name": "5 star", "count": 2300 }
+    ]
+  },
+  {
+    "id": 29,
+    "image": "https://images.unsplash.com/photo-1504608524841-42fe6f032b4b?auto=format&fit=crop&w=600&h=400&q=80",
+    "title": "WeatherGuard: Radar & Forecast",
+    "companyName": "Meteorology Labs",
+    "size": 51.1,
+    "reviews": 31000,
+    "ratingAvg": 4.5,
+    "downloads": 2500000,
+    "description": "Protect your personal travel schedules and outdoor endeavors against volatile atmospheric transformations with WeatherGuard Severe Meteorological Radar System.",
+    "ratings": [
+      { "name": "1 star", "count": 700 },
+      { "name": "2 star", "count": 1100 },
+      { "name": "3 star", "count": 3200 },
+      { "name": "4 star", "count": 9000 },
+      { "name": "5 star", "count": 17000 }
+    ]
+  },
+  {
+    "id": 30,
+    "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?auto=format&fit=crop&w=600&h=400&q=80",
+    "title": "Time Planner: Schedule & Tasks",
+    "companyName": "Chronos Tech",
+    "size": 19.7,
+    "reviews": 8400,
+    "ratingAvg": 4.6,
+    "downloads": 500000,
+    "description": "Reclaim total command over your daily attentional focus and eliminate chronic workplace procrastination utilizing Time Planner: Schedule & Tasks interval workflow tracking engine.",
+    "ratings": [
+      { "name": "1 star", "count": 150 },
+      { "name": "2 star", "count": 250 },
+      { "name": "3 star", "count": 800 },
+      { "name": "4 star", "count": 2200 },
+      { "name": "5 star", "count": 5000 }
+    ]
+  },
+  {
+    "id": 31,
+    "image": "https://images.unsplash.com/photo-1510915361894-db8b60106cb1?auto=format&fit=crop&w=600&h=400&q=80",
+    "title": "GuitarTuner: Chord & Pitch",
+    "companyName": "Acoustic Labs",
+    "size": 37.2,
+    "reviews": 16400,
+    "ratingAvg": 4.8,
+    "downloads": 1200000,
+    "description": "Achieve immaculate acoustic intonation with GuitarTuner Chromatic Audio Pitch Analyzer, a highly precise instrument calibration tool engineered for performers.",
+    "ratings": [
+      { "name": "1 star", "count": 120 },
+      { "name": "2 star", "count": 280 },
+      { "name": "3 star", "count": 1000 },
+      { "name": "4 star", "count": 4000 },
+      { "name": "5 star", "count": 11000 }
+    ]
+  },
+  {
+    "id": 32,
+    "image": "https://images.unsplash.com/photo-1476480862126-209bfaa8edc8?auto=format&fit=crop&w=600&h=400&q=80",
+    "title": "CardioRun: GPS Pace & Route",
+    "companyName": "Stride Metrics",
+    "size": 43.5,
+    "reviews": 13900,
+    "ratingAvg": 4.4,
+    "downloads": 700000,
+    "description": "Elevate your long-distance running capabilities utilizing CardioRun GPS Marathon Pace Tracking Engine, a comprehensive performance optimization environment.",
+    "ratings": [
+      { "name": "1 star", "count": 390 },
+      { "name": "2 star", "count": 510 },
+      { "name": "3 star", "count": 1500 },
+      { "name": "4 star", "count": 3500 },
+      { "name": "5 star", "count": 8000 }
+    ]
+  },
+  {
+    "id": 33,
+    "image": "https://images.unsplash.com/photo-1504280390367-361c6d9f38f4?auto=format&fit=crop&w=600&h=400&q=80",
+    "title": "CampFinder: Wild Sites & RV",
+    "companyName": "Wilderness Portal",
+    "size": 67.8,
+    "reviews": 5300,
+    "ratingAvg": 4.3,
+    "downloads": 300000,
+    "description": "Locate perfect, safe outdoor overnight stays seamlessly using CampFinder Wild Camping Wilderness Site Locator, the ultimate resource engine.",
+    "ratings": [
+      { "name": "1 star", "count": 210 },
+      { "name": "2 star", "count": 390 },
+      { "name": "3 star", "count": 700 },
+      { "name": "4 star", "count": 1500 },
+      { "name": "5 star", "count": 2500 }
+    ]
+  },
+  {
+    "id": 34,
+    "image": "https://images.unsplash.com/photo-1561070791-26c113006238?auto=format&fit=crop&w=600&h=400&q=80",
+    "title": "FontForge: Fonts & Lettering",
+    "companyName": "Type Foundry",
+    "size": 58.2,
+    "reviews": 2100,
+    "ratingAvg": 4.2,
+    "downloads": 90000,
+    "description": "Craft gorgeous, custom typographic designs from anywhere using FontForge Typography Studio, the premier vector typeface design engine.",
+    "ratings": [
+      { "name": "1 star", "count": 100 },
+      { "name": "2 star", "count": 200 },
+      { "name": "3 star", "count": 400 },
+      { "name": "4 star", "count": 500 },
+      { "name": "5 star", "count": 900 }
+    ]
+  },
+  {
+    "id": 35,
+    "image": "https://images.unsplash.com/photo-1544620347-c4fd4a3d5957?auto=format&fit=crop&w=600&h=400&q=80",
+    "title": "CityTransit: Subway & Bus",
+    "companyName": "Urban Mobility",
+    "size": 36.4,
+    "reviews": 27400,
+    "ratingAvg": 4.5,
+    "downloads": 2000000,
+    "description": "Navigate complicated urban environments with perfect ease using CityTransit Live Urban Commuting Route Navigator, your real-time public transit companion.",
+    "ratings": [
+      { "name": "1 star", "count": 600 },
+      { "name": "2 star", "count": 1100 },
+      { "name": "3 star", "count": 2700 },
+      { "name": "4 star", "count": 8000 },
+      { "name": "5 star", "count": 15000 }
+    ]
+  },
+  {
+    "id": 36,
+    "image": "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?auto=format&fit=crop&w=600&h=400&q=80",
+    "title": "YogaBuilder: Asana & Flow",
+    "companyName": "Prana Digital",
+    "size": 71.9,
+    "reviews": 8800,
+    "ratingAvg": 4.9,
+    "downloads": 450000,
+    "description": "Develop a deeply fulfilling, personalized physical yoga practice at home with YogaBuilder Vinyasa Flow Asana Custom Sequence Designer.",
+    "ratings": [
+      { "name": "1 star", "count": 180 },
+      { "name": "2 star", "count": 320 },
+      { "name": "3 star", "count": 800 },
+      { "name": "4 star", "count": 2500 },
+      { "name": "5 star", "count": 5000 }
     ]
   }
 ]
