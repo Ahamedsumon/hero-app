@@ -4,6 +4,8 @@ import reviewIcon from "../../assets/icon-review.png";
 import downloadIcon from "../../assets/icon-downloads.png";
 import ratingIcon from "../../assets/icon-ratings.png";
 import { Bar, BarChart, XAxis, YAxis } from "recharts";
+
+import "./AppDetails.css";
 const AppDetails = () => {
   const [allApps, setAllApps] = useState([]);
   const { appId } = useParams();
@@ -93,7 +95,20 @@ const AppDetails = () => {
             </div>
           </div>
           <div className="mt-5">
-            <button className="btn bg-[#00D390] text-white">
+            <button className="btn bg-[#00D390]  relative overflow-hidden px-6 py-3 rounded-xl text-white font-semibold ">
+              <span
+                className="
+      absolute
+      inset-0
+      -translate-x-full
+      skew-x-[-20deg]
+      animate-[shimmer_1.2s_linear_infinite]
+      bg-linear-to-r
+      from-transparent
+      via-white/70
+      to-transparent
+    "
+              />
               Install Now ({size} MB)
             </button>
           </div>
