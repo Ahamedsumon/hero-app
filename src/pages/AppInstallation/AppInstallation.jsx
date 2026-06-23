@@ -14,11 +14,21 @@ const AppInstallation = () => {
   const getDataByIds = appsData.filter((app) => getStoredIds.includes(app.id));
 
   return (
-    <div className="max-w-[96%] lg:max-w-[90%] mx-auto">
-      <h2>This is App Installation Page</h2>
-      {getDataByIds.map((app) => (
-        <AppInstallationCard key={app.id} app={app}></AppInstallationCard>
-      ))}
+    <div className=" bg-[#F5F5F5] py-10">
+      <div className="text-center my-4">
+        <h2 className="text-3xl font-bold">Your Installed Apps</h2>
+        <p className="text-sm text-[#627382]">
+          Explore All Trending Apps on the Market developed by us
+        </p>
+      </div>
+      <div className="max-w-[96%] lg:max-w-[90%] mx-auto my-2">
+        <p className="text-[#001931]">{getDataByIds.length} Apps Found</p>
+      </div>
+      <div className="max-w-[96%] lg:max-w-[90%] mx-auto min-h-85">
+        {getDataByIds.map((app) => (
+          <AppInstallationCard key={app.id} app={app}></AppInstallationCard>
+        ))}
+      </div>
     </div>
   );
 };

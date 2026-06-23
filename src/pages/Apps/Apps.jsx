@@ -1,14 +1,19 @@
-import { Link, useLoaderData } from "react-router";
 import App from "../App/App";
-import { Suspense, useState } from "react";
+import { useEffect, useState } from "react";
 
 const Apps = () => {
   const [appsName, setAppsName] = useState("");
-  const appDatas = useLoaderData();
+  const [apps, setApps] = useState([]);
+  // const appDatas = useLoaderData() || [];
+  useEffect(() => {
+    fetch("/apps-data.json")
+      .then((res) => res.json())
+      .then((datas) => setApps(datas));
+  }, []);
   const handleAppsNameOnChange = (e) => {
     setAppsName(e.target.value);
   };
-  const searchAppResults = appDatas.filter((data) =>
+  const searchAppResults = apps.filter((data) =>
     data.title.toLowerCase().includes(appsName.toLowerCase()),
   );
   const handleShowAllBtn = (e) => {
