@@ -19,5 +19,15 @@ const addIdsToLocalStorage = (id) => {
   const convertToJson = JSON.stringify(updateIds);
   localStorage.setItem("storedApps", convertToJson);
 };
+const removeAppIdFromLocalStorage = (id) => {
+  console.log(id);
+  const existingAppIds = getAppsIdFromLocalStorage();
+  const updatedAppIds = existingAppIds.filter((appId) => appId !== id);
+  localStorage.setItem("storedApps", JSON.stringify(updatedAppIds));
+};
 
-export { addIdsToLocalStorage, getAppsIdFromLocalStorage };
+export {
+  addIdsToLocalStorage,
+  getAppsIdFromLocalStorage,
+  removeAppIdFromLocalStorage,
+};

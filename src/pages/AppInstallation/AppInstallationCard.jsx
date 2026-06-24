@@ -1,8 +1,9 @@
 import { MdOutlineFileDownload } from "react-icons/md";
 import { FaStar } from "react-icons/fa6";
-const AppInstallationCard = ({ app }) => {
-  const { image, title, downloads, ratingAvg, size } = app;
-  console.log(app);
+
+const AppInstallationCard = ({ app, handleUninstallBtn }) => {
+  const { id, image, title, downloads, ratingAvg, size } = app;
+
   return (
     <div className="bg-base-100 shadow-sm mb-5 flex items-center justify-between py-5 px-2 rounded">
       <div className="flex  gap-5">
@@ -26,7 +27,12 @@ const AppInstallationCard = ({ app }) => {
         </div>
       </div>
       <div className="">
-        <button className="btn bg-[#00D390] text-white">Uninstall</button>
+        <button
+          onClick={() => handleUninstallBtn(id)}
+          className="btn bg-[#00D390] text-white"
+        >
+          Uninstall
+        </button>
       </div>
     </div>
   );

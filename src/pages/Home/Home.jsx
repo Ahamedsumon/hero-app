@@ -1,4 +1,4 @@
-import { Link, useLoaderData } from "react-router";
+import { Link } from "react-router";
 import Banner from "../../components/Banner/Banner";
 import Facts from "../../components/Facts/Facts";
 import TrendingApps from "../../components/TrendingApps/TrendingApps";

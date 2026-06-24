@@ -1,17 +1,28 @@
 import { useEffect, useState } from "react";
-import { getAppsIdFromLocalStorage } from "../../utilities/utilities";
+import {
+  getAppsIdFromLocalStorage,
+  removeAppIdFromLocalStorage,
+} from "../../utilities/utilities";
 import AppInstallationCard from "./AppInstallationCard";
 
 const AppInstallation = () => {
   const [appsData, setAppsData] = useState([]);
-  const getStoredIds = getAppsIdFromLocalStorage();
-
+  // const getStoredIds = getAppsIdFromLocalStorage();
+  const [allAppsId, setAllAppsId] = useState(getAppsIdFromLocalStorage());
+  console.log(allAppsId);
   useEffect(() => {
     fetch("/apps-data.json")
       .then((res) => res.json())
       .then((datas) => setAppsData(datas));
   }, []);
-  const getDataByIds = appsData.filter((app) => getStoredIds.includes(app.id));
+
+  const getDataByIds = appsData.filter((app) => allAppsId.includes(app.id));
+
+  const handleUninstallBtn = (id) => {
+    removeAppIdFromLocalStorage(id);
+    setAllAppsId(getAppsIdFromLocalStorage());
+    console.log(id);
+  };
 
   return (
     <div className=" bg-[#F5F5F5] py-10">
@@ -26,7 +37,11 @@ const AppInstallation = () => {
       </div>
       <div className="max-w-[96%] lg:max-w-[90%] mx-auto min-h-85">
         {getDataByIds.map((app) => (
-          <AppInstallationCard key={app.id} app={app}></AppInstallationCard>
+          <AppInstallationCard
+            key={app.id}
+            app={app}
+            handleUninstallBtn={handleUninstallBtn}
+          ></AppInstallationCard>
         ))}
       </div>
     </div>

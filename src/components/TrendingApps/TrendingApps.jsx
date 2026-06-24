@@ -2,7 +2,7 @@ import { Link } from "react-router";
 
 const TrendingApps = ({ data }) => {
   const { id, image, title, downloads, ratingAvg } = data;
-  console.log(data);
+
   return (
     <Link to={`/apps-data/${id}`}>
       <div className="card bg-base-100 shadow-sm">
