@@ -6,10 +6,15 @@ import ratingIcon from "../../assets/icon-ratings.png";
 import { Bar, BarChart, XAxis, YAxis } from "recharts";
 
 import "./AppDetails.css";
+import {
+  addIdsToLocalStorage,
+  getAppsIdFromLocalStorage,
+} from "../../utilities/utilities";
 const AppDetails = () => {
   const [allApps, setAllApps] = useState([]);
   const { appId } = useParams();
 
+  const [ids, setIds] = useState([]);
   useEffect(() => {
     fetch("/apps-data.json")
       .then((res) => res.json())
@@ -18,9 +23,11 @@ const AppDetails = () => {
 
   const findAppById = allApps.find((app) => app.id === +appId);
   if (!findAppById) {
+    console.log(findAppById);
     return <div>Loading...</div>;
   }
   const {
+    id,
     image,
     title,
     downloads,
@@ -31,16 +38,16 @@ const AppDetails = () => {
     description,
     ratings,
   } = findAppById;
-  //   const appsRating = ratings.map((rating) => {
-  //     const ratingObject = {
-  //       name: rating.name,
-  //       count: rating.count,
-  //     };
-  //     return ratingObject;
-  //   });
-  //   console.log(appsRating);
-  console.log(ratings);
+
   const reversedRatings = [...ratings].reverse();
+  const handleInstallBtn = (id) => {
+    addIdsToLocalStorage(id);
+    setIds(id);
+  };
+  const getStoredAppsId = getAppsIdFromLocalStorage();
+  const isIncludesId = getStoredAppsId.includes(id);
+  console.log(isIncludesId);
+
   return (
     <div className=" bg-[#F5F5F5]">
       <div className="flex flex-col md:flex-row  gap-5 max-w-[96%] lg:max-w-[90%] mx-auto pb-8 border-b border-[#00193130]">
@@ -95,21 +102,15 @@ const AppDetails = () => {
             </div>
           </div>
           <div className="mt-5">
-            <button className="btn bg-[#00D390]  relative overflow-hidden px-6 py-3 rounded-xl text-white font-semibold ">
+            <button
+              disabled={isIncludesId}
+              onClick={() => handleInstallBtn(id)}
+              className="btn bg-[#00D390] disabled:bg-gray-300  relative overflow-hidden px-6 py-3 rounded-xl text-white font-semibold"
+            >
               <span
-                className="
-      absolute
-      inset-0
-      -translate-x-full
-      skew-x-[-20deg]
-      animate-[shimmer_1.2s_linear_infinite]
-      bg-linear-to-r
-      from-transparent
-      via-white/70
-      to-transparent
-    "
+                className={`${isIncludesId ? "" : "absolute inset-0 -translate-x-full skew-x-[-20deg] animate-[shimmer_1.2s_linear_infinite] bg-linear-to-r from-transparent via-white/70 to-transparent"}`}
               />
-              Install Now ({size} MB)
+              {isIncludesId ? "Installed" : `Install Now (${size} MB)`}
             </button>
           </div>
         </div>

@@ -3,13 +3,13 @@ import { addIdsToLocalStorage } from "../../utilities/utilities";
 
 const App = ({ data }) => {
   const { id, image, title, downloads, ratingAvg } = data;
-  const handleAppsCard = (id) => {
-    addIdsToLocalStorage(id);
-  };
+  // const handleAppsCard = (id) => {
+  //   addIdsToLocalStorage(id);
+  // };
   return (
     <Link to={`/apps-data/${id}`}>
       <div
-        onClick={() => handleAppsCard(id)}
+        // onClick={() => handleAppsCard(id)}
         className="card bg-base-100 shadow-sm"
       >
         <figure className="px-2 pt-2">
