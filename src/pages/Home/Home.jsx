@@ -2,10 +2,17 @@ import { Link, useLoaderData } from "react-router";
 import Banner from "../../components/Banner/Banner";
 import Facts from "../../components/Facts/Facts";
 import TrendingApps from "../../components/TrendingApps/TrendingApps";
+import { useEffect, useState } from "react";
 
 const Home = () => {
-  const datas = useLoaderData();
-  const filteredDataByRating = datas.filter((data) => data.ratingAvg > 4.7);
+  const [allApps, setAllApps] = useState([]);
+  // const datas = useLoaderData();
+  useEffect(() => {
+    fetch("/apps-data.json")
+      .then((res) => res.json())
+      .then((datas) => setAllApps(datas));
+  }, []);
+  const filteredDataByRating = allApps.filter((data) => data.ratingAvg > 4.7);
 
   // console.log(datas);
   return (

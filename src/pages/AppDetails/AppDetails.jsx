@@ -23,7 +23,6 @@ const AppDetails = () => {
 
   const findAppById = allApps.find((app) => app.id === +appId);
   if (!findAppById) {
-    console.log(findAppById);
     return <div>Loading...</div>;
   }
   const {
@@ -42,11 +41,11 @@ const AppDetails = () => {
   const reversedRatings = [...ratings].reverse();
   const handleInstallBtn = (id) => {
     addIdsToLocalStorage(id);
-    setIds(id);
+    setIds([...ids, id]);
   };
+
   const getStoredAppsId = getAppsIdFromLocalStorage();
   const isIncludesId = getStoredAppsId.includes(id);
-  console.log(isIncludesId);
 
   return (
     <div className=" bg-[#F5F5F5]">

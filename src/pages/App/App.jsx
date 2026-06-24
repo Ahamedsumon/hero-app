@@ -1,11 +1,8 @@
 import { Link } from "react-router";
-import { addIdsToLocalStorage } from "../../utilities/utilities";
 
 const App = ({ data }) => {
   const { id, image, title, downloads, ratingAvg } = data;
-  // const handleAppsCard = (id) => {
-  //   addIdsToLocalStorage(id);
-  // };
+
   return (
     <Link to={`/apps-data/${id}`}>
       <div
