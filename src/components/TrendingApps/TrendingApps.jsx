@@ -5,7 +5,7 @@ const TrendingApps = ({ data }) => {
 
   return (
     <Link to={`/apps-data/${id}`}>
-      <div className="card bg-base-100 shadow-sm">
+      <div className="card bg-base-100 shadow-sm ">
         <figure className="px-2 pt-2">
           <img src={image} alt="Shoes" className="rounded-xl" />
         </figure>

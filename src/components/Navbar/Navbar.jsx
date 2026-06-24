@@ -7,7 +7,11 @@ const Navbar = () => {
     <div className="navbar">
       <div className="navbar-start">
         <div className="dropdown">
-          <div tabIndex={0} role="button" className="btn btn-ghost lg:hidden">
+          <div
+            tabIndex={0}
+            role="button"
+            className="cursor-pointer rounded p-1 hover:bg-gray-200 lg:hidden"
+          >
             <svg
               xmlns="http://www.w3.org/2000/svg"
               className="h-5 w-5"
@@ -33,10 +37,12 @@ const Navbar = () => {
             <NavLink to="installation">Installation</NavLink>
           </ul>
         </div>
-        <div className="flex max-w-10 ml-1 lg:ml-0">
-          <img src={headerImage} alt="" />
-          <a className="btn btn-ghost text-xl">HERO.IO</a>
-        </div>
+        <Link to="/">
+          <div className="flex items-center  max-w-7 ml-1 lg:ml-0">
+            <img src={headerImage} alt="" />
+            <a className=" md:text-xl">HERO.IO</a>
+          </div>
+        </Link>
       </div>
       <div className="navbar-center hidden lg:flex">
         <ul className="navLink menu menu-horizontal px-1 gap-6">
@@ -47,7 +53,7 @@ const Navbar = () => {
       </div>
       <div className="navbar-end">
         <Link to="https://github.com/Ahamedsumon">
-          <button className="btn bg-linear-to-l from-[#9F62F2] to-[#632EE3] text-white text-xl">
+          <button className="btn bg-linear-to-l from-[#9F62F2] to-[#632EE3] text-white md:text-xl">
             <span>
               <FaGithub />
             </span>

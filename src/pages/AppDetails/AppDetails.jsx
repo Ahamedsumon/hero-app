@@ -49,7 +49,7 @@ const AppDetails = () => {
 
   return (
     <div className=" bg-[#F5F5F5]">
-      <div className="flex flex-col md:flex-row  gap-5 max-w-[96%] lg:max-w-[90%] mx-auto pb-8 border-b border-[#00193130]">
+      <div className="flex flex-col md:flex-row  gap-5 max-w-[96%] lg:max-w-[90%] mx-auto pt-8 pb-8 border-b border-[#00193130]">
         <div className="">
           <figure className="max-w-90 h-auto">
             <img className="rounded" src={image} alt={`Image of ${title}`} />
